@@ -182,14 +182,32 @@
    1,G
   13,L,X
 
-  41,R,J
-
-  70,R,K,G
-
+  36,R,J
+   8,R,U,G
+   1,R,U,J,G
+   5,R,U,G
+   6
+   2,R,U,J
+  10,R,D,X,G
+   1,R,D,J
+  44,R
+   4,R
+   1,R,U,J
+   9,R,U,X,G
+   1,R,U,J,G
+   3,R,U,J
 #Intro Level 2
-  22,R,X
-  40,R,J
-
+***20
+   8,R,X
+   3,R
+   3,R,J
+   5,R,U,K,G
+   6,R,U,J,G
+  10,R,D,X
+   3,R,U,J
+  14,R,D,X
+   1,R,U,J
+  60,R,U
 #Level 2
 #Inside The Shrine - dahlukeh
 
