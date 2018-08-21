@@ -16,6 +16,7 @@
  225
 
 
+
 #Intro 1
   10,R,X
    8,R,J
@@ -197,7 +198,7 @@
    1,R,U,J,G
    3,R,U,J
 #Intro Level 2
-***20
+
    8,R,X
    3,R
    3,R,J
@@ -210,5 +211,55 @@
   60,R,U
 #Level 2
 #Inside The Shrine - dahlukeh
+
+   1,R,U
+   8,R,U,J
+   5,R,X
+  10
+  10,U,J
+  16,R,U,J
+   5,R,U,K,G
+   8,R,U,J,G
+  86,R,G
+  17,R,U,G
+   5,U,X
+  33,D
+  22,L,D
+***35
+  88,L,G
+  15,L,U,J,G
+   2,L,U,G
+  11,U,J,G
+  13,R,U,K,G
+  14,U,J,G
+   8,R,U,K,G
+  14,R,U
+   2,R,U,J
+  10,R,D,X
+   3,R,U,J
+  10,R,D,X
+  50,R,U,J
+
+# Level 2-2
+
+  10,R,D,X
+   6,R,U,J
+  10,R,D,X
+   6,R,U,J
+  10,R,D,X
+  14,R,U,J
+
+
+  11,U,X
+  53,R,U,J
+
+
+# Level 2-3
+
+  14,R,X
+  36,R,U,J
+ 100,U,X
+/**/
+
 
 #WIP
