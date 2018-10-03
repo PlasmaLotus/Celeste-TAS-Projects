@@ -1,5 +1,5 @@
+#Created by PlasmaLotus
 #Summit D
-#Stage 1
 #Start
 
 #Restart Chapter
@@ -20,12 +20,10 @@
 #Start
   10,R,D,X
 
-##Replace these values with 4 - 8
-##On1y doing this to reduce respawn time while building tas
-##Meaning I avoid collecting Golden Strawberry - When you die, it respawns you to the 1st level, meaning it reloads the 1st level. That takes longer than reloading the current level... Even if the current level is the 1st...
-   5,R,J
+##Replace these values with 4 - 8 for Golden Strawb and 5 - 8 for no strawb
+   4,R,J
    8,R
-##End
+##Sub end
 
   18,R,J
    5,U,X
@@ -66,7 +64,6 @@
    1,R,D,J
 
 #1-2
-
   46,R,J
 
   12,R,D,X
@@ -81,19 +78,22 @@
 
    1,R,U,K,G
   15,R,U,J,G
-
-#peak : 17.3.3
+***400
 
    8,R,U,K,G
-   8,R,U,J,G
-  13,R,K
-  25,R,D
-#jump
-   8,R
+  11,R,U,K,G
+  16,R
    7,R,D
-   2,R,D
+  11,R,D
+  13,R
+   3,R
+#jump
+   2,R
    1,R,U,J,G
-  14,R,D
+   1,R,D,J
+   1,R,D
+   1,L,D
+  13,R,D
    3,R,J
   16,R,D
    6,R,K
@@ -101,7 +101,7 @@
    1,K
 
    3,R,K
-  30,R,K
+  29,R,K
    1,J
   25,R,J
 
@@ -134,6 +134,7 @@
   10,R,D,X
   60,R,J
    1,R,D
+
 #1-3
   10,R,D,X
 
@@ -161,7 +162,6 @@
    6,R,U
    9,U,C
 
-l  90,U
   20,L,U
    3,R,D
    5,R,U,X
@@ -178,14 +178,13 @@ l  90,U
   12,R,U,J,G
    7,R,D
 
-
    5,R,D,X
    3,R,J
    8,R
    5,R,D,X
    8,R,J
-#Transition
 
+#Transition
   39,R,J
    2,R,J
    1,R,D,J
@@ -198,10 +197,8 @@ l  90,U
    5,R,X
   34,L,D
   10,D
-   0,L
    2,R
    1,R
-   0,R,D
   19,R
    5,U,X
   11,U
@@ -219,8 +216,7 @@ l  90,U
    5,R,U,X
    2,R,U
    8,U
-   0,R,U
-   0,R,U
+
    7,L,U
 #
    9,L,U
@@ -231,9 +227,6 @@ l  90,U
    5,R,D,X
   12,R,D
 
-
-#/***/
-
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -242,7 +235,6 @@ l  90,U
   10,R,D,X
    9,R,J
    4,R
-
 
   12,R,D,X
   30,R,J
@@ -256,24 +248,20 @@ l  90,U
    9,L,D
    5,L,X
   18,L,D
-  0,L,D
   11,L,D,X
   30,L,U,J
 
    5,L,U,X
   30,L,D
    3,L,D
-   0,R,D
   11,D
-  #25,R,D
   18,D
    7,R,D
    5,R,X
-   9,R
+   9,L
 
    9,U,X
   10,R,D
-
 
    6,U,X
    5,L,D
@@ -287,22 +275,23 @@ l  90,U
    6,L,U
 
    6,R,X
-   0,R
    5,L
    7,L,D
    3,L,D
    5,U,X
-   9,L,U
-   6,R,X
+  10,L,U
+   5,R,X
   20,L,D
   16,L,D
    9,D
-   6,R,X
-  13,L
+   5,R,X
+  14,L
    5,U,X
-  10,R,U
+  10,L,U
+   0,R,U
    5,U,X
-  10,R,D
+   1,L,D
+   9,R,D
   25,R,D
   16,D
    9,L,D
@@ -315,7 +304,8 @@ l  90,U
    5,R,U,X
   15,L,U
    5,U,X
-  27,R,U
+  13,L,U
+  14,R,U
    3,R,D
    3,R,D
    4,L,D
@@ -323,22 +313,17 @@ l  90,U
    1,R,D
   10,R
    5,R,U,X
-
-   9,R,U
+   
+   9,L,U
   11,R,X
-   0,L,U,J
-
 
    6,L,U,J
    6,U,X
    9,L,U
    5,U,X
    4,L,U,G
-   0,L,U,J,G
   12,L,D
   17,D
-#--OG STRAT
-
 
   20,R,J
    5,U,X
@@ -355,15 +340,12 @@ l  90,U
   12,R,J,G
    1,K
   17,R,K
-   0,R,D
   13,L,D,X
   15,L,K
   17,L,K
    5,L,U,X
   15,L,U
    7,L,U
-
-
 
 #New Strat from thre right
    5,L,U
@@ -372,7 +354,6 @@ l  90,U
    8,U,X
    7,L,U
    4,L,U
-   0,U
   12,R,D,X
   30,R,U,J
    5,R,U,X
@@ -401,7 +382,7 @@ l  90,U
    6,U,X
    5,L,U
    9,L,C
-***400
+
   13,R,D
    2,L,D
   40,D
@@ -422,7 +403,6 @@ l  90,U
    5,U,X
   10,U
    3,R,U
-
 
    5,U,X
   12,U
@@ -462,4 +442,4 @@ l  90,U
    5,L,U,X
   12,L,U
    3,L,U
-#End
+#End : 3911
