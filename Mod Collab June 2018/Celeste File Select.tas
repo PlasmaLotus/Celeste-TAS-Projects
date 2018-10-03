@@ -1,0 +1,39 @@
+#Created by PlasmaLotus
+#Delete File
+#   1,D
+#  1,F,180
+#   1,J
+#   1,U
+#   1,J
+
+
+#Start from Begin
+
+#NameSelect
+Read,./CelesteTAS/NameSelect/Name - PlasmaLotus.tas,0
+#  49
+#   1,U
+   1,J
+
+Read,./CelesteTAS/UnlockCheatMode.tas,0
+
+***10
+#Overworld
+ 190
+
+   1,X
+  45
+   1,D
+  60
+   1,J
+  40
+   1,J
+
+##Test Wait time between presses
+#about 46 frames before loading start
+
+ 200
+
+
+
+
