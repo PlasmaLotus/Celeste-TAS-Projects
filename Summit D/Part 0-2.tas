@@ -1,0 +1,20 @@
+#Created by PlasmaLotus
+#Summit D
+#Play all files
+#Main Celeste.Tas file that plays all others in succession
+#Put this file on the root of the Celeste.exe folder
+#And put the 'Celeste-TAS-Projects/Summit D' Directory on the root as well 
+
+
+#From Map Start
+   1
+   1,J
+ 135
+
+Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
+
+ 330
+
+Read Celeste-TAS-Projects/Summit D/Part 2.tas, 20
+
+ 330

@@ -1,0 +1,418 @@
+
+
+##From Chap 1
+##Synking Chapter 3
+
+
+Read ./Part 0-2.tas
+Read ./Celeste-TAS-Projects/Summit D/Part 0-2.tas
+   1
+   #1,R
+Read Part3-FromC2.tas, 0
+Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
+   
+***400
+##########
+  30,R,J
+  11,R
+  
+  ##Looks like this part needs to be ajusted depending on where you spawn
+  
+   5,R,U,X
+  10,R,U
+   5,R,U,X
+  10,R,U
+   7,R,U
+   3,R,U
+   7,R,D
+  18,L,D
+   5,D
+   8
+   5,R,X
+  10,R
+   5,R,X
+  10,R
+  19,L,D
+  16,L
+  9,R
+   5,R,X
+  13,R,U
+   5,R,U,X
+  10,R,U
+  21,R,J
+
+
+   5,R,U,X
+  15,R,U
+  12,R,U
+
+###
+   5,R,U,X
+  11,R,U
+   6,R,D,X
+   5,R,D,J
+  14,R,D
+   5,R,X
+  38,R
+   4,R,D,X
+   7,R,D,J
+
+  13,R
+  17,R
+  12,R
+
+   5,R,U,X
+
+  15,R,U
+  14,R
+   5,R,X
+  35,R
+   5,R,U,X
+  10,R,U
+  18,R,U,J
+   5,R,U,X
+  10,R,U
+   5,R,X
+  37,R
+   0,R,D,X
+  41,R,J
+   5,R,X
+  10,R
+   5,R,X
+  10,R
+  29,R
+   0,R,D,X
+  23,R,D,J
+  18,R,D
+   0,R,D
+  11,L,D
+   5,L,X
+  19,R,D
+   3,R,D
+   5,D,X
+  10,R,D
+   5,R,X
+
+  38,R
+  16,R,J
+   5,U,X
+  10,L,U
+   0,L,U
+   5,R,U,X
+  10,D
+   8,R,D
+  22,D
+   8,L,D
+   9,R,D
+   5,R,X
+  10,R
+   5,R,X
+  10,R
+  36,R
+   3,R
+   0,R,D,X
+  21,R,J
+   5,R,X
+  10,R
+  10,R
+   5,R,X
+  10,R
+  74,R
+   4,R,U,J
+   3,R,U,J
+   5,U,X
+  13,R,U
+  14,R,D,X
+   1,R,D,J
+   8,R,D,X
+   1,R,D,J
+  40,R,D
+
+#Room 2
+
+   3,R,D
+   8,R,J,G
+   5,R,X
+  30,R
+  22,R,J
+   5,R,D,X
+  10,R,D
+  19,R
+  35,R,J
+   5,R,X
+  10,R
+   7,R
+   5,R,U,X
+  10,R
+  19,R
+  14,R,D
+   5,D,X
+  47,R,D
+   5,R,X
+  10,R
+  38,R
+   6,L,G
+
+  0,L,X
+   2,L,G
+  10,L,U,X
+  10,R,U
+   5,R,X
+  20,R,D
+   5,R,X
+ 116,R
+   1,R
+   5,R,D,X
+  32,R,J
+   5,U,X
+  10,U
+  44,U
+  39,L,U
+
+#Room 3
+  19,L
+   5,U,X
+  10,L,U
+   5,L,U,X
+  30,L,U
+   5,U,X
+  14,R,U
+   5,R,U,X
+  41,R,U
+   5,R,U,X
+  30,R,U
+   5,U,X
+  19,L,U
+   5,L,X
+  10,L,U
+   5,L,U,X
+   1,L,U
+  26,R,U
+   5,R,U,X
+   8,R,U
+  15,R,U,J
+   5,U,X
+  17,L,U
+   5,U,X
+   7,U
+   6,L,U,J
+   5,U,X
+  10,U
+   9,R,U,J
+  10,L,K
+   2,L
+  12,R,J
+  12,R,U,K,G
+  39,R,U
+
+#Room 4
+  13,R,U
+  14,R,D,X
+   1,R,J
+  10,R,X
+  19,R,J
+  14,R,X
+  27,R
+   9,R,J
+  15,R
+   5,R,U,X
+  24
+  19,R
+   5,R,X
+  41,R
+
+   8,R,J
+   6,R
+   5,R,U,X
+  10,L,U
+   5,L,X
+  37,L
+   6,U,X
+  10,R,U
+   5,R,X
+  22,R
+  11,R,J
+   9,R
+   5,U,X
+  10,U
+   5,U,X
+  10,L,U
+  10,L
+   5,L,X
+  10,L
+   5,L,X
+  62,L
+   6,L,J
+  10,L
+   5,L,X
+  23,L
+   5,U,X
+  19,U
+
+  15,R,U
+   5,U,X
+  28,R,U
+   5,U,X
+  10,R,U
+   5,R,X
+  44,R
+   5,L,G
+   2,D
+  14,L,D
+  30,R
+   5,U,X
+  63,U
+   5,U,X
+  13,U
+   5,U,X
+  10,U
+  25,D
+  12,L,D
+   5,L,X
+  77,L,D
+   5,R,D,X
+  10,L
+   5,U,X
+  24,U
+   5,U,X
+  10,U
+   5,U,X
+  45,U
+
+  10,U
+   2,L,U
+  12,L,X
+  10,L,J
+   3,R,J
+   5,L,X
+  13,L
+   5,L,X
+   9,L,D
+   9,L,D,X
+   3,L,D
+  41,R,D
+   5,R,D,X
+   0
+  16,R,D
+   5,R,X
+   9,R
+   4,R,J
+   5,U,X
+  15,U
+   5,L,U,X
+  12,L,U
+  49,L,U
+   5,U,X
+  10,U
+   2,U
+   5,L,U,X
+  11,L
+
+   6,L,U,J
+
+   5,L,U,X
+  10,R,U
+   5,R,U
+   5,R,X
+  22,R
+
+  32,R,J
+   5,R,U,X
+  10,R,U
+   5,R,X
+  10,R,U
+  26
+  23,L,U
+   5,L,X
+  14,L
+   5,R,G
+  10,U,J,G
+   5,L,X
+   9,L
+   5,R,D,G
+  14,D
+   5,L,X
+   9,L
+   5,R,U,G
+   5,U,X
+  10,U
+   8,U,X
+#Evading spike ball
+  25,R,U
+   9,L
+  20,R
+   #7,R,D,X
+
+  38,L
+   5,L,U,X
+  10,L,U
+   7,L
+   5,L,X
+  17,L
+   7,R,G
+   5,R,X
+  23,R
+
+  21,R,J
+   5,U,X
+  10,R,U
+   7,U
+   5,U,X
+  11,U
+   7,R,U,J
+  16,L,U,J
+   5,U,X
+  10,U
+   5,U,X
+  10,U
+  42
+   5,U,X
+  10,U
+  19,U
+   5,L,U,X
+   ,L,U
+  21,L,U
+  12,U,J,G
+  14,R,U,K
+  11,U,J,G
+  15,R,U,K,G
+  11,R,U
+   5,U,J,G
+   6,L,U,J,G
+  14,L,U,K,G
+   6,L
+  16,L,J
+   5,U,X
+  11,L,U
+   5,U,X
+  11,L,U
+   8,L,U
+#End
+ 222
+#***400
+#Part4
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,J
+  11,L,X
+  10,L,J
+   5,U,X
+  20,R,U
+   5,U,X
+  20,R,U
+   5,L,U,X
+  25,R
+  14,L
+   6,L,D
+  29,D
+   5,L,X
+  10,L
+   5,L,U,X
+  46,L,D
+   5,L,U,X
+  20,L,G
+  90,G
+
+
+
