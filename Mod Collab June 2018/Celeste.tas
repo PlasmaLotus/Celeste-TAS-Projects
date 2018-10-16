@@ -5,11 +5,13 @@
 #Restart Chapter
 
    1,S
+
    1,D
    1,F,180
    1,D
    1,F,180
    1,D,J
+   
    1
    1,J
 
@@ -91,27 +93,35 @@
 
    5,L,D
   40
+
   10,R,D,X
   27,R,J
-   3,R,K
+
+   4,R,K
   55,R
 
 #Level 1-2
-  13,R,D
-   5,R,X
-  14
-   3,L
-   6,U,J
-  15,U,X
-   5,L,U,J,G
-  66,L,U,G
-  13,D
-   7,U,J
-  12,L,K
-   5,J
-   5,L,J
-   4,L
-  19,R,D
+
+#New RU Dash strat
+#Thought it would work
+  17,R,J
+   5,R,U,X
+   5,R,U,G
+   1,J
+   7,L,U,J
+   1,L,U,J
+  12,L,U,K,G
+
+  53,L,U,G
+   6,L
+  13
+   7,J
+   7,R,K,G
+   1,R,D,J,G
+   5,L,D,J
+   0,L,D
+  24,R,D
+
   10,R,D,X
   85,D
   10,R,J
