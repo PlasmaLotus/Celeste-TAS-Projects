@@ -1,0 +1,2229 @@
+#June Collab Tas
+
+#By PlasmaLotus
+
+#Restart Chapter
+
+   1,S
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D,J
+   1
+   1,J
+
+#31
+  31
+   1
+   1,J
+
+ 188
+
+
+
+#Intro 1
+  10,R,X
+   8,R,J
+  10,R,X
+   9,R,J
+  10,R,D,X
+   2,R,D,J
+
+  12,R,D,X
+  11,R,U,J
+  12,R,D,X
+   6,R,U,D,J
+  31
+
+#Intro Level 1
+  17,R,U,J,G
+   9,R,X
+  16,R,U,J
+
+
+   4,R,U,K,G
+  12,R,D
+
+   3,R,J
+  11,R,D,X
+   7,R,U,J
+  16,R,D,X
+   6,R,J
+
+#Here and There - SomeGuyNamedDavid
+#Lv 1-1
+  37
+
+   6,R,G
+   4,R,J,G
+  11,R,G
+   1,R,J,G
+  13,R
+   6,R,J
+  16,R
+
+   3,R,J
+  15,R
+   3,R,J
+  10,R
+   9,R,D
+  10,D
+  20
+  10,R
+   1,R,J
+  25,L,J,G
+
+  11,R,K
+  12,R,G
+  10,L,J
+  14,L
+   9,K
+   8,L,U,G
+   5,L,U,J,G
+   9,L,U,K,G
+
+
+  20,L,X
+   5,R,C
+  52,L,D
+   6,L,D,X
+
+   5,L,D
+  40
+  10,R,D,X
+  27,R,J
+   3,R,K
+  55,R
+
+#Level 1-2
+  13,R,D
+   5,R,X
+  14
+   3,L
+   6,U,J
+  15,U,X
+   5,L,U,J,G
+  66,L,U,G
+  13,D
+   7,U,J
+  12,L,K
+   5,J
+   5,L,J
+   4,L
+  19,R,D
+  10,R,D,X
+  85,D
+  10,R,J
+  11,R
+  14,L,U,X
+  22,R,D
+   8,R
+  13
+
+  10,R,X
+  17,R,J
+
+   5,U,X
+  10,L,U,G
+  45,L,U,G
+
+  45,L,U,J
+  21,L
+   1,L,J
+  15,L
+  17,L
+   6,L,J
+   7,L
+
+  11,L,X
+   1,L,J
+  14,R,J
+   5,L,U,X
+   3,L,U,G
+  27,L,U,J,G
+  36,G
+  41,R,U,J
+  18
+
+  12,R,D,X
+   1,R,D,J
+  18,R,D
+  50,R,J
+#Level 1-3
+
+   6,R,J
+  10,D,X
+  29
+   8,R
+  13,R,J
+  15,R
+  18,R,D
+  15,D
+  15,D
+   6,L,D
+  15,L,X,G
+  34,L,G
+  27,L
+   9,R,D,X
+  16,R,J
+   1,K
+  22,R,D
+
+  43,R
+  10,R,J
+#2065
+
+   5,U,X
+  17,L,U,G
+   5,L,U,J,G
+  69,L,G
+  30,R,J
+  17,R
+  11,D,X
+  24,R,J
+  15,R
+
+  44,L,G
+   2,R,J
+  17,R,D
+   3,L,D
+   2,R,D
+  12,D
+   8,L,X
+
+   8,R,J
+  29,R,K
+   8,R,U,G
+   1,R,U,J,G
+   1,R,U,J
+   5,R,U
+
+   2,R,D
+
+  10,R,D,X
+  45,R,J
+   8,R,J
+  10,R,X
+  17,R,J
+   5,R,K,G
+
+  10,R,D,X
+   3,R,U,J
+  14,R,D,X
+   1,R,U,J
+  60,R,U
+#Level 2
+#Inside The Shrine - dahlukeh
+
+   1,R,U
+   8,R,U,J
+   5,R,X
+  10
+  10,U,J
+  16,R,U,J
+   5,R,U,K,G
+   8,R,U,J,G
+  86,R,G
+  17,R,U,G
+   5,U,X
+  33,D
+  22,L,D
+
+  88,L,G
+  15,L,U,J,G
+   2,L,U,G
+  11,U,J,G
+  13,R,U,K,G
+  14,U,J,G
+   8,R,U,K,G
+  14,R,U
+   2,R,U,J
+  10,R,D,X
+   3,R,U,J
+  10,R,D,X
+  50,R,U,J
+
+# Level 2-2
+
+  10,R,D,X
+   6,R,U,J
+  10,R,D,X
+   6,R,U,J
+  10,R,D,X
+  14,R,U,J
+
+# Level 2-3
+  11,U,X
+
+  53,R,U,J
+
+  12,R,X
+   5,R,J
+  17,R
+  14,R,J
+   5,U,X
+  20,L
+   6
+  59
+  20,J
+   5,U,X
+  28,R
+
+  53
+  12,L,J
+   6,L,U,K,G
+   2,U,J,G
+   2,U,J
+
+
+
+
+   1,U,J
+   5,L,U,J
+   3,R,U,J
+   3,L,U,J
+
+
+
+  15,U,X
+   8,L,U,G
+   7,L,U,J,G
+   7,L
+
+
+  15,R,J
+   5,R,U,X
+  26,R,U
+   2,R,J
+  10,R,D,X
+  20,R,J
+  42,R
+#Backtracking to get Strawb
+
+   9,L,D,X
+  50,L,J
+  10,L
+
+
+
+  43,L,J
+  12,L,D,X
+   4,R,U,J
+   1,L,K
+  21,L,D
+   1,L,J
+  13,L
+   1,R,J
+  14,R
+   6,R,J
+  10,R,U,K,G
+  10,R,U,J,G
+
+
+
+#/*Extended dash*/
+  12,R,X
+   2,R,U,J
+
+  18,R,D
+  63,R,J
+# Level 2-4
+   8,R,U,K
+   5,U,X
+  11,U
+  12,L,U,J
+  17,L,U,K
+   1,L
+
+  26
+   5,D,X
+   7,U
+  18,U,J
+   5,U,X
+  20,L
+   5,R,D,X
+   7,R,J
+  60,R,D
+   5,D
+
+   5,L,X
+   9,R,J
+  28,R
+   
+   8,L
+   4
+   2,L,U,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,R,J
+   1,R,J
+   6,R,J
+   5,U,X
+   4,U
+  22,L,J,G
+  13,R,K
+  13,L,J
+  13,R,K
+   7
+
+  25
+   5,L,J
+  12,L
+  10
+   1,R
+   1,L
+   1,R
+   1,L
+
+  25,R,J
+  10,R,D,X
+   6,R,J
+   2,R
+  10,R,D,X
+   1,R,J
+   7,R,D
+
+  12,R,J
+
+# Intro Level 3
+  53,R,D
+  10,R,X
+  
+  15,R,K
+
+   5,R,J,G
+  10,R,D,X
+   5,R,D,J
+  21,R,D
+  10,R,D,X
+  44,R,J
+
+# Dream Block Path - Flagpole1up
+#Level 3-1
+   6,R,J
+   8,R,D,X
+   1,R,J
+  14,R,D
+   2,R,J
+  10,R,D,X
+  10,R,J
+   5,R,U,X
+  15,R,U
+   5,R,D,X
+  26,R,J
+  18,R,K
+   5,R,X
+  10,R
+   5,R,D,X
+  38,R,J
+   2,R,U,K,G
+   8,R,D
+  10,D,X
+  17,R,D
+  10,R,X
+  33,R
+   9,R,J
+  12,L,K
+  12,L,J,G
+  10,L,D,X
+  11,L,J
+   5,R,X
+  22,R
+  18,R,J
+
+   4,R,U,K,G
+  10,R,D,X
+   7,R,J
+  21,R
+   5,D,X
+  21,R,D
+   5,R,X
+  14,R
+   2,R
+   7,R
+   2,R,G
+   3,R,U,J,G
+   8,R,U,K,G
+  29,R,G
+   4,R,U,G
+   3,R,G
+   2,R,U,G
+   5,R,X
+  10,R
+  29,U,X
+   4,R,J
+  10,R,X
+  14,R,D
+  32,L,D
+  10,L,X
+   8,R,J
+  10,D,X
+
+  59
+   9,R,J
+   5,R,X
+  26,R
+  10,R,J
+   5,U,X
+  24,R,D
+  10,R,D,X
+
+   2,R,J
+  23,R,D
+  10,R,X
+  11,R,J
+  17,R
+   5,R,X
+  21,R,D
+   6,D,X
+  25,L,D
+  15,L,X
+   3,R,J
+  18,R
+  12,R,X
+   3,R,J
+  10,R,K,G
+   9,U,X
+   3,R,U,J
+
+  21,L
+   5,L,J
+  27
+  10,L,D,X
+   8,L,J
+   5,U,X
+
+  59
+
+   5,D,X
+  17
+  12,R,D,X
+  27,R,U,J
+  10,R,X
+   7,R,J
+  18,U,X
+   7,R,U,J
+
+
+  13,L,U,J
+   6,R,U,J
+   6,R,X
+  24
+  18,R,D
+   5,D,X
+  17,R
+  21,R,X
+  10,U,C
+
+  27,R,D
+   5,R,D,X
+  26,R,D
+   1,R,J
+   1,R
+  12,R,D,X
+  12,R,D
+   2,R,J
+  10,R,D,X
+  58,R,J
+# Level 3-2
+
+   5,R,X
+  31,R
+  14,R,J
+   5,U,X
+  15,R
+  13,R,D,X
+   7,R,J
+   5,R,X
+  12,R
+
+   3,R,J
+   7,R,D
+  12,L,D
+
+  13,R,D
+   5,R,X
+   9,R,D
+  10,D,X
+  10,R,D
+  20,R,C
+  13,R
+   6,R,J
+  10,U,X
+  20,R,D
+  14,R,D,X
+   6,R,J
+  10,R,D,X
+  17,R,J
+   6,R,X
+  21,L,G
+  13,D
+  13,L,D
+   5,L,X
+  22,L
+   5,L,X
+
+  11,L
+   8,R,X
+  15,R
+   6,D,X
+
+  10,R,D
+  10,R,C
+  29,R
+  20,R,J
+   6,U,X
+  17,R,U
+   6,U,X
+  16,R,D
+   5,R,X
+  22,R,D
+   6,D,X
+  31,R,D
+   5,R,X
+  29,R
+  13,R,J
+  21,L,K
+   5,U,X
+  20,R,D
+  13,R,D,X
+
+   7,R,J
+  10,R
+  10,R,D,X
+  15,R,J
+
+   5,D,X
+  16,L,D
+
+   5,L,X
+   5,L
+  10,R,D
+   6,D,X
+  16,R,D
+  20,R,X
+  20,R,C
+  10,R,J
+   6,U,X
+  33,R,D
+   5,R,X
+  22,L,D
+  14,R,D
+   5,R,X
+  15,R
+   5,R,J
+   5,U,X
+  16,R,U
+   2,R,U,X
+  17,R,U
+   5,R,C
+
+  10,R
+  10,R,X
+  18,R,D
+   5,D,X
+
+
+  30,R,D
+  10,R,X
+
+  32,R
+   4,R,J
+   5,U,X
+  10,U
+   8,U,X
+  11,U
+
+   7,U,X
+
+  10,R,U
+   7,R,X
+  19,R
+   6,D,X
+
+  21,D
+   8,R,D
+  10,R,X
+   9,R
+  14,R,X
+   2,R,J
+  10,R,D,X
+   6,R,D,J
+   4,R
+  12,R,D,X
+  45,R,J
+   4,R,J
+
+
+   4,R,U,K,G
+   5,L,J
+  10,R,X
+   7,R,J
+  10,D,X
+
+#7446
+  87
+  14,L,J
+  10,R,U,X
+  17,R,U
+   6,R,X
+  33,R
+   2,R,G
+   1,L,J
+  21,D
+  19,L,D
+   1,L,D,G
+  10,R,J
+  12,R
+   5,R,X
+  35,R
+   6,L,D
+   6,D,X
+  10,L,D
+   7,L,X
+  10,L,U
+   7,L,U,J
+   6,U,X
+  12,U
+  10,U,X
+  13,U
+  10,R,X
+  15,R
+  11,R,D,X
+
+#Messing around to wait for the Dream Block
+
+   4,L,J
+  13,R,D,X
+   8,R,J
+   4,R,U,K,G
+  16,L,D,X
+   1,L,D,J
+  15,L,D
+   6,L,J
+  11,R,D,X
+  14,R,J
+   5,D,X
+  10
+
+
+#Moonwalk Attempt
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+   1,L,R
+   3,L
+
+  38,R
+   #Going in
+
+   4,R,J
+   6,R,D,X
+  23,R,D,X
+   1,R,J
+   3,R,D
+  10,R,X
+  23,R
+
+  10,R,J
+  27,R
+   7,R,X
+  16,R
+   1,R,D,J
+  16,R,D
+   6,R,X
+  19,R
+   6,R,X
+  20,R
+  11,R,U,X
+  10,R,U,K,G
+   9,L,U,J
+   6,L,X
+  12,L,U
+  11,L,U,J
+   1,L,U,G
+  10,L,U,J,G
+  10,R,U,K
+  10,R,G
+  52,R,G
+   7,L,J
+  10,R,X
+  10,R
+   7,R,D,X
+   1,R,D,J
+   7,R,D
+   2,D
+   6,R,D
+   4,D
+  10,R,C
+   4,R,J
+   1,R,U,K,G
+   8,R,U,J
+   6,R,X
+   8,R,U
+   5,R,J
+  14,R
+   1,L,D,J
+  17,D
+  22,L,D
+  12,L,X
+   8,L
+   6,L,X
+   8,L
+  11,L,D
+   6,D,X
+  13,R,D
+   9,R,X
+   7,R
+  18,R,U,J
+  15,R,U,X
+  10,R,U
+  10,R,X
+  30,R
+
+  10,L,U,X
+  30,L,U
+  10,U,X
+   6,U
+  10,U,X
+   9,R,U
+   7,R,X
+  35,R
+   9,D,X
+  18,R,D
+  10,R,X
+  17,R
+   5,R,U,J
+  10,U,X
+  11,R,U
+   6,R,U,J
+  10,R,D,X
+   9,R,D,J
+   4,R
+   6,R,X
+  36,R
+   1,R,U,J
+   6,D,X
+  19,L,D
+   9,L,X
+  19,L
+   3,L,J
+   6,L,X
+  23,L
+   1,D,J
+  17,D
+  14,R,D
+   6,R,X
+  32,R
+   1,R,D,J
+  16,R,D
+   6,R,U,X
+  29,R,U
+   6,R,U,X
+  25,R,U
+   6,R,X
+  14,R
+   2,R,D,J
+  12,R
+
+  70,R,G
+   9,R,D,G
+
+  10,L,D,X
+  16,L,J
+   6,R,U,X
+   9,R
+   6,R,D,X
+   2,R,D,J
+  26,R,D
+
+   7,R,J
+  10,R,D,X
+
+  48,R,J
+   5,R,U,K,G
+   5,R,U,J,G
+   7,R,U,K,G
+   7,L,U,J,G
+  10,L,U,X
+  11,L,U
+   4,R,U,J
+  15,R,X
+  18,R,U,J
+  25,U,X
+#Transition?
+
+  76,L,U
+  11,R,D,X
+   4,R,D,J
+   9,R,D
+   1,R,J
+  14,R
+   1,R,J
+   5,R
+   8,L,D,X
+   1,L,D,J
+   7,L,D
+   2,L,D,J
+   7,L,D,X
+   1,L,D,J
+   7,L,D
+  19,L,J
+   5,D,X
+  10,D
+
+
+#9740
+ 142
+   9,J
+   7,R,J
+   6,U,X
+  22,R,U
+   6,R,X
+  51,R,D
+   6,D,X
+  21,L,D
+  10,L,D,X
+   2,L,D,J
+   9,L
+  10,D,X
+  54,R,D
+  20,R,D
+  15,R,D,X
+   1,R,D,J
+  10,R,D
+  15,R,D,X
+  50,R,U,J
+  12,R,X
+  18,R,U,J
+   5,R,U,K,G
+  10,R,D,X
+   1,R,D,J
+  12,R,D
+  10,R,D,X
+   1,R,D,J
+  55,R,D
+
+#Sealed Nightmare - Dournbrood
+#Level 4
+   8,R,D
+  10,R,X
+   4,R,J
+  11,R,U,K,G
+   5,U,X
+   6,U
+  64,R,U,J
+
+#4-1U - Ice
+  13,R,U,J
+  11,R,D,X
+
+  16,R,U,J
+
+
+
+
+   1,K
+  25,R,K
+   1,J
+  25,R,J
+
+   1,K
+  14,R,K
+   5,R,U,X
+  32,R,D
+  18,D
+  11,L,D
+  26,R,J
+   5,U,X
+  10,R,U
+
+   9,R,U,J
+
+  14,R,D
+   6,R,D,X
+   4,R,D,J
+  15,R,D
+   9,R,D,X
+   8,R,D,J
+  16,R,D
+   5,D,X
+  16,R,D
+
+  11
+   5,R,X
+  42,R,G
+  16,R,U,G
+   9,R,J
+   5,U,X
+  14,U
+   9,R,U,J
+   2,R,U,K,G
+  14,R,D
+   5,R,J
+
+
+  34,R,D
+   5,R,X
+  39,L,D
+   1,J
+  25,L,J
+   1,K
+  20,L,K
+   5,L
+   1,R,J
+  50,R,J
+   1,K
+  25,R,K
+   6,R,U,J,G
+  11,R,U,K,G
+  53,R,U,J
+   7,R,U,K,G
+  12,R,U,J,G
+
+  10,R,U,K
+
+  22,R,U
+   5,R,X
+  21,R
+   5,U,X
+   4,U
+   2,R,U,J
+  13,R,U
+  12,R,D,X
+   1,R,D,J
+  25,R,D
+  12,R,D,X
+   5,R,J
+  12,R
+   7,R,J
+  10,R,D,X
+  15,R,J
+   5,U,X
+  10,U
+
+   4,L,U,J
+
+  37,R
+   1,J
+  25,R,J
+   1,K
+  25,R
+   1,J
+  18,L,D
+
+  11,L,D,X
+  10,L,J
+  10,L
+  10,L,D,X
+   5,L,J
+   4,L
+  10,L,D,X
+  23,L,J
+
+   5,U,X
+   6,U
+  17,L,U,J
+  19,L,D
+   
+
+
+
+   5,L,J
+
+  27,L,D
+   5,L,X
+  42,R
+   1,K
+  25,R,K
+   1,J
+  10,R,J
+  15,R,D
+  49,L,K
+   1,J
+  25,L,J
+   4,L,U,K,G
+  10,L,U,J,G
+  53,L,U,K
+   4,L,U,J,G
+   1,L,U,K,G
+   2,L
+   6,L,D
+   3,D
+   3,L,D
+
+  49,L,U,K
+
+   1,J
+  25,L,J
+   1,K
+   6,L,K
+   5,L,X
+  14,L
+   6,U,X
+   8,U
+   5,L,U,J
+  19,L,U
+  10,L,D,X
+   1,L,D,J
+   8,L,D
+   5,D,X
+  18,L,D
+  13
+   5,L,X
+  41,L,G
+   8,L,U,G
+   7,L,D
+   8,L,J
+   5,U,X
+
+  14,U
+   9,L,U,J
+   8,L,U,K,G
+
+
+
+
+  30,L,U,K
+   3,L,J
+  10,L,D,X
+   5,L,D
+  10,L,D,X
+   5,L,D,J
+
+  12,R,D,J
+  10,R,D
+   2,L,D
+  14,D
+  13,R,D
+  25,L,J
+   5,U,X
+  11,U
+  11,L,U,J
+   6,L,U,J
+  47,L,D
+  12,L,D,X
+   1,L,D,J
+   7,L,D
+   5,D,X
+  46,L,D
+   5,L,D
+   5,L,X
+  25,R,D
+   5,D,X
+  27,R,D
+   1,R,J
+   5,D,X
+  62,D
+
+  6,L,X
+
+
+#4-1D
+   7,L,D
+   7,R,D,X
+  40,R,D
+  12,R,D,X
+  10,R,D,J
+   8,R,D
+  13,R,X
+
+   1,R,U,J
+   7,U,X
+  13,U
+  33,R,U,J
+   5,R,U,K,G
+   7,R,D
+  12,R,D,X
+
+
+  29,R,J
+  12,R,D,X
+  22,R,J
+   7,R,D
+
+  36,R,D
+   5,R,X
+   9,R
+   2,R,D
+   2,R,D,J
+  13,R,D,X
+
+  13,R,J
+   5,U,X
+  12,U
+  28,R,U,J
+   5,R,X
+   6,R,U,G
+   3,R,U,J,G
+
+   7,R,D
+   1,R,D,J
+
+
+  24,R,D
+  23,R,D
+
+
+   5,R,X
+  18,R,D
+  24,L,J
+   5,U,X
+  10,R,U
+  16,R,U,J
+  18,R,U
+   3,R,J
+  13,R,D,X
+  36,R,U,J
+   5,R,U,X
+  18,R,U
+   1,R,U,J,G
+   3,R,D,G
+   8,R,D
+  11,R,D,X
+  42,L,J
+   5,L,U,X
+   6,L,U
+   2,L,U,J,G
+   5,L,D,J
+  49,L,D
+  10,R,D,X
+  22,L,J
+   9,R,K
+  12,R,U,J,G
+   9,L,K
+   9,L,U,J,G
+   9,R,K
+   9,R,U,J,G
+   5,L,U,K
+
+ 
+
+   5,L,X
+  38,L,D
+  13,L,D
+   5,L,X
+  13,L,D
+   2,L,D,J
+  12,L,D,X
+  16,L,J
+   5,U,X
+  11,U
+  28,L,U,J
+   5,L,X
+   4,L
+   4,L,U,J,G
+  10,L,D
+  12,L,D,X
+  16,L,J
+   7,L
+  10,L,D,X
+
+   8,L,J
+  11,L
+   5,L,X
+   8,L
+   1,L,J
+  12,L,D
+
+   8,R,D
+  18,D
+   8,L,D
+  11,L,D,X
+   5,L,J
+   5,L,U,X
+  41,L,D
+  12,L,D,X
+  14,L,J
+   5,U,X
+  13,U
+  18,R,U,J
+  11,R,U,K,G
+  11,R,U,J,G
+  52,R,U,K,G
+#Back to room 4-1
+   9,R,U,J,G
+   4,R,U,K,G
+   2,R,U,J,G
+
+   5,R,U,G
+   3,R,U,J,G
+   7,R,X
+   3,R,U,J
+   1,R,U,K,G
+  12,R,D
+   2,R
+
+#14019
+ 245
+
+  10,L,D,X
+   7,R,J
+  57,R,U,K,G
+  11,R,D,X
+  18,R,J
+   4,R
+  12,R,X
+  19,R,J
+   5,R
+   5,R,J
+   2,R
+   5,R,D,X
+  11
+   7,D,X
+  18,D
+   5,R,D,X
+   1,R,D,J
+  15,R,D
+  11,R,X
+   7,R,J
+   9,R,U,K,G
+  15,R,U,J,G
+   5,R,D,X
+  21,R,D
+   5,R,U,X
+  22,R,U
+   8,L,U,X
+  13,L,U
+   6,R,X
+  16,R,D
+  10,R,D,X
+   1,R,J
+   3,R
+   5,R,D,X
+  16,R,D
+   6,L,X
+  15,L,D
+
+   5,D,X
+
+   9
+   9,D,X
+   9,L,D
+   9,L
+   5,R,D,X
+  11
+  12,R,D,X
+   2,R
+
+   5,R,X
+  15
+  11,R,D,X
+   6,R,J
+   4,R,U,K,G
+  10,R,X
+   1,R,D,J
+  16,R,D
+  12,R,X
+  13,R,J
+   5,R,U,X
+  34,R,U
+   5,R,D,X
+   1,R,D,J
+  10,R,D
+   2,R
+   5,R,D,X
+   1,R,D,J
+  15,R,D
+   3,R
+  13,R,D
+  10,R,X
+
+
+   7
+   6,R,X
+  48,R,D
+   4,R,D
+  17,D
+  13,R,D,X
+  40,R,J,G
+  15,R,U,X
+  15,R,U,G
+  11,R,U,J,G
+   5,R,U,K,G
+  10,R,U,J,G
+  50,R
+  18,R,X
+   5,R,J
+  17,R
+   8,R,U,X
+   8,R,U
+   1,R,U,J,G
+  13,R
+   2,R,J
+   8,R,D,X
+   2,R,D,J
+  25,R,D
+   5,R,X
+
+
+
+#Level 5
+  56,R,J
+
+
+   6,U,X
+  18,L,U
+   2,L,U,G
+  19,L,U,J
+   2,L,U,G
+  19,L,U,J,G
+   2,L,U,G
+   8,L,U,J,G
+   1,L,U
+   5,D
+   7
+   1,L,J
+  14,L
+  11,R,X
+
+  26,R,J
+   3,L
+  22,R
+  15,L,J
+
+   5,L,X
+  11,L,U,G
+   5,L,U,J,G
+   1,L,D
+   5,R,D
+   8,R,D
+   2,R,J
+  
+  15,L,D
+   5,R,D
+   6,L,D
+   1,R,D
+   1,L,J
+   1,L
+   5,R,D,J
+   8,R
+  12,R,X
+  10,R
+   1,R,U,G
+  12,R,U,J,G
+  10,R,D
+   3,R,J
+  30,R,D
+
+   2,R,D
+  12,R
+
+   3,L,J
+   5,L,U,X
+  11,L,U
+   6,L,D
+   8,R,D
+
+   6,R,D,J
+   5,R
+  26,R
+   1,L,J
+   4,L
+
+
+
+   5,L,D,G
+   1,R,J
+   6,R
+   3,L,D
+   1,R,D,J
+  19,R,D
+   3,L,D,J
+
+  15,L,D
+
+   4,R,D,J
+   9,R,D
+   2,L,D
+   5,R,D
+   7,R,D,J
+   5,R,X
+  12,R,D
+  10,R,D,X
+
+  49,R,J
+   5,U,X
+   3,U
+  23,R,U,J
+  23,R
+  10,L,D,X
+  13,R,J
+  14,R,D
+  15,D
+   4,R,J
+   5,R,X
+  23,R,D
+  10
+  10,R
+   9,R,J
+   2,J
+  10,R,J
+
+   2,R
+   5,R,X
+  40,D
+  11,R
+   7
+   7,J
+   6,L,J
+   8,L
+   5,L,D,X
+  14,D
+  13,R,D
+   3,D
+   2
+  10,R
+  10,R,D,X
+   1,L,D,J
+   2,L,D
+  24,R,D
+   3,L,D
+  11,L
+
+   5,L,X
+  15,L
+   4,L,J
+  49,L
+  11,L,D,X
+  12,L,J
+   5,U,X
+   5,U
+  13,L,U,J
+  18,R,U,K
+   7,R,U,J,G
+   7,R,D
+   5,U,X
+   7,U
+
+  48,L,U,J
+#Last cut
+   9,L,U
+  12,D,C
+  10,L,J
+  15,L,K
+  15,L,X
+   6,L
+   
+  10,R
+  10,L,J
+  23,L
+  19,R,J
+  14,R
+  10,L,J
+  23,L
+   1,R,J
+   3,L,J
+   2,L
+  10,R,U,X
+   
+  15,L,D
+   1,D
+   8,R,D
+   4
+
+#16727
+  50
+  12,R,D,X
+   2,R,D,J
+   7,L
+   5,L,X
+   9,L
+   
+  11,R,D,X
+  24,R,J
+   5,U,X
+  21,R,U,G
+   9,R,U,J,G
+
+   3,L,K
+  20,L
+   6,R,J
+  17,R
+   1,J
+   9,R,J
+  16,R
+   1,K
+   7,L,K
+
+  13,L
+   #4,L,D
+  16,R,J
+   6,U,X
+  10,L,D
+   5,D
+  14,L,D
+   1,J
+   3,L,J
+   7,L,D
+
+
+#Top platform
+  10,L,X
+   1,L,D,J
+   7,L,D
+
+
+
+#left strat
+   1,R,J
+   3,R,J
+   6,U,X
+
+  35,L
+   5,L,J
+  17,L
+   6,L,U,K,G
+   #2,L
+  28,L,D
+   1,L
+  19,D
+  12,R,D
+   5,R,U,X
+   7,R,U,G
+   9,R,U,J,G
+   8,R,U,K,G
+ 115,R,G
+   1,R
+  #12,R,U,G
+  #11,R,G
+
+   1,J
+   8,R,U,J
+   1,R,D,J
+   8,R,D
+  10,R,D,X
+   1,R,D,J
+   9,R,D
+   5,U,X
+   5,U
+  11,R,U,J
+  24,R,D
+   4,R,J
+  16,R,D
+   5,R,X
+  13,R,J
+   8,R,U,K,G
+  53,R
+   6,R
+   1,R,J
+  14,R
+   1,R,J
+   2,R
+   6,D,X
+  80,L,G
+  12,L,U,J,G
+   3,L,G
+   5,L,U,J,G
+  11,D
+   1,J
+  19,L,J
+  11,R,K
+   6,R,X
+  12,R,D
+  21,L,D
+  32,U
+  73
+  78,D
+  11,R,J
+  15,R,D
+   1,J
+  18,D
+   2,R,D
+  91,U
+
+
+  10,L,X
+  18,R,J
+  10,R,X
+  41,R,J
+
+   4,R,J
+   5,R
+   5,R,X
+   5,R
+  19,R,J
+   3,R,U,K,G
+  10,R,D,X
+   4,R,J
+  22,R,D
+  10,R,D,X
+   4,R,D,J
+  41,R
+
+#Level 6-1
+#Collect 4
+   2,R,D
+
+  10,R,D,X
+   7,R,J
+  17,R
+  10,R,X
+  20,R,J
+  33,R
+
+
+   5,R,U,X
+  13,R,U
+   5,U,X
+  10,U
+  17,R,U,J
+   9,R,U,K,G
+  10,R
+  10,R,X
+   6,R,J
+
+  10,R,D,X
+   1,R,D,J
+   6,L,D
+
+  12,L,X
+   1,L,D,J
+   7,L,J
+
+   5,U,X
+   3,U
+  20,R,U,J
+   4,R
+   8,R,U,J,G
+  37,R,U,J,G
+   4,R,U,K,G
+  10,R,D,X
+   1,R,D,J
+   7,R,D
+   7,R,X
+  11,R,J
+   1,R,D
+   7,R,D
+   1,R,D,J
+   5,R,D
+  10,L,D,X
+   8,R,J
+  17,R
+
+   5,R,X
+  14,R
+   9,R,X
+  20,R
+   1,R,J
+  16,R,G
+  41,R,G
+   1
+   1,J
+
+   3,R,J
+   5,J
+   3,L,J
+   5,U,X
+  17,U
+   
+  11,R,D
+  10,D
+   
+   5,R,J
+   5,R,U,X
+  12,R,U,G
+  10,R,U,J,G
+  10,R,U,K,G
+  10,L,U,J
+  11,L,D
+  10,L,D,X
+  10,L,D,J
+  12,L,D
+   7,L,J
+   1,K
+  14,L,K
+
+#18922
+  18
+   5,L,X
+   8,L
+
+   3,L,J
+   5,L,U,X
+   4,K
+   4,J
+   4,K
+   4,J
+
+   3,L
+   4,L,D
+   7,L,D
+  10,L,D,X
+   8,L,D,J
+  10,L,D,X
+   5,L,D,J,G
+   6,L,D,K
+   3,R
+   5,L,D,X
+   6,L,D
+   2,L,J
+   6,L,D,J
+  10,L,D
+   9,L,D,X
+   8,L,D,J
+  11,L,D
+
+#19088
+   7,D,X
+   9,D
+   7,D,C
+
+  91,L,D
+   5,L,X
+  12,L
+   1,U,X
+
+  69,U
+
+#6-3ul
+   4,U
+  10,R,D,X
+   8,L,D,J
+  12,L,D
+   4,L,J
+   6,U,X
+  12,L,U
+   8,L,U,J,G
+   9,L,U,K,G
+   8,L
+  10,L,D,X
+   1,L,D,J
+   1,L,D
+  12,L,D
+   5,D,X
+  20,D
+  10,L,D,X
+   1,R,J
+   2,R,D,J
+   9,R,D
+   5,L,X
+   9,L,D
+   7,L,J
+   1,K
+   4,R,K
+   3,L,K
+   0,R
+   5,L
+   5,U,X
+   8,U
+   4,R,U,J
+  15,R
+  10,R,X
+  11,R,J
+   5,R,U,X
+  30,R,D
+   4,R
+  10,R,D
+   5,R,U,X
+  14,R,U
+  10,R,U,K,G
+   6,L,J
+   6,U,X
+  18,R,U
+  12,R,U,K,G
+  20,L,U,J
+  19,L
+   0,L,G
+  20,L,U,G
+  17,L,G
+  39,L,U,G
+   4,L,U,J,G
+   6,L,D
+   3,R,D
+
+   3,R,J
+   6,D,X
+  17,R,D
+
+   1,U,X
+  53,U
+  10,R,X
+   5,R,J
+  10,R,D,X
+   3,R,J
+  18,R,D
+   1,L
+  10,L,X
+   1,L,D,J
+   9,R,D
+
+   8,L,D
+   2,R,D
+  10,L,D
+   5,L,X
+  19,L,D
+
+  34,D
+   1,R,X
+  37,R
+   5,U,X
+   6,U
+   1,R,D,J
+   8,R,D
+   3,R,D,G
+   8,D
+   7,L,D
+  12,R,D
+  12,D
+   5,L,X
+   9,L
+
+
+
+   9,L,D
+   1,L,D,J
+  11,L,D
+   5,D,X
+  29,D
+   5,L,D
+   5,R,D,X
+   1,R,D,J
+   2,R,J
+   1,L,J
+
+   0,R,D
+   3,L,D
+  20,L,D
+  42,L,D
+#
+
+  19,D
+   1,R,X
+  29,R
+   1,L,J
+  11,L,D
+   8,L,D
+  15,L,D
+   5,L,D,X
+  17,L,D
+   5,D,X
+  14,R,D
+  91,D
+
+   5,L,D,X
+  14,L,D
+   5,L,X
+  20,L
+   5,L,X
+  10,L
+  83,U
+  14,L,D
+   5,L,X
+  12,L
+   6,U,X
+  10,L,U
+   1,U,X
+  12,U
+
+
+   8,L,X
+  19,R,D
+   9,L,D
+   5,L,X
+  15,L
+   5,L,X
+  28,L
+   5,D,X
+  14,L,D
+   1,U,X
+  35,U
+  62
+
+#red Bubble conundrum
+
+   1,L,U,C
+  10,L,U
+  10,L,U,X
+  30,L
+   5,L,D
+   9,D
+   2,L,D
+
+#extra frames
+  13
+   1,L,U,X
+  22,L,U
+   6,U,X
+  20,L,U
+   5,L,X
+  25,L,D
+   5,L,X
+  28,L,D
+   9,D
+  13,L,D
+   5,L,X
+  17,L
+   1,R,X
+  67,R
+   6,R,U,X
+   7,R,U
+   1,R,D,X
+  17,R,D
+   6,R,X
+   7,R
+   1,R,X
+ 100,R
+   6,R,D,X
+   6,R,D
+   1,L,X
+ 102,L
+   6,L,U,X
+   4,L
+   1,R,X
+ 100,R
+   6,R,D,X
+   6,R,D
+   1,R,X
+
+#To optimise
+  15,R
+   6,R,U,X
+   1,R,U
+   1,R,U,C
+##
+  13,R,U
+  13,R,U,J,G
+  12,L,U,K
+   9,L,U,J,G
+   5,R,U,X
+   9,R,U
+  12,R,U,K,G
+   2,L,U,J
+   7,L,D
+   2,L
+   9,L,J
+   3,L,K
+
+   5,U,X
+  10,U
+  20,L,J
+
+
+
+  27,L,U,J
+  29,L
+   5,L,X
+   8,L,U,J
+   8,L,U,K,G
+  10,L,U,J,G
+   9,L,U,K,G
+   9,L,U,J,G
+   5,L,D
+   6,D
+
+  23,R,J
+   5,U,X
+  15,U
+  39,R,U,J
+   6,R,U,X
+  10,R,U
+   4,L,U
+   8,L,U,G
+  13,R,U,J
+   9,R,U,K,G
+   4,R,U,J,G
+   7,R,D
+   1,D
+   8,L
+  10,R,D
+  19,R,D
+   6,R,X
+  20,R,D
+  30,D
+  18,R,D
+  77,D
+   3,R,D
+   5,R,X
+  10,R,D
+   3,R,G
+  22,L,D
+  35,D
+   9,D
+   6,R,X
+  30,R,D
+  42,R,G
+   1
+   1,L,D,J
+  11,L,D
+
+  13,D
+   
+   4,D
+   1
+   1,R
+   7,R,D
+   0,D
+  10,L
+  11,L,D
+   1,D
+
+
+
+
+#/*Strat2*/
+   4,R,D
+  18,R,D
+   6,R,X
+   8,R
+  20,R,J
+   6,U,X
+  11,U
+  30,L,U,J
+   5,L,U,G
+
+   6,L,U,J,G
+  10,L,U,K
+
+  10,R,U,K
+   5,R,U,J,G
+   8,R,D
+   1,D
+
+   6,D,X
+   5,U
+  20,L,J
+   3,L,J
+   9,J
+
+   6,U,X
+  16,U
+  12,L,U,J,G
+  25,R,U,K
+   6,U,X
+   9,U
+   1,L,D,J
+   1,L,D
+   7,L,D
+   6,U,X
+  11,L,D
+   2,L
+   6,L,X
+   5,L
+   1,L,U,J,G
+   1,R,U,J
+   2,L,U,J
+  13,L,U,K,G
+  12,L,U,J,G
+  10,L,U,K,G
+   7,L,D
+   5,L,X
+  10,L,U,J
+   1,D,K
+  39,L
+  12,L,J
+  0,L,J
+   7,L,D
+   9,L
+   3,L,J
+   2,L,J
+   5,U,X
+  20,U
+  33,U
+   5,L,U,J
+  20,L,U,J
+   5,U,X
+   6,U
+
+#Back to Main Room
+#remember to Frick around here, so many frames to waste
+  26,R,U,J
+   7,R,U,K,G
+   7,R,D
+   7,R,J
+   7,R,D
+ 102
+   6,R,X
+   5,R
+   5,R,J
+ 130
+   6,R,X
+   5,R
+   5,R,J
+ 113
+   6,R,X
+   5,R
+   5,R,J
+  21
+   3,R
+  39
+  55
+***400
+  11
+   7,D
+   5,U,X
+  10,U
+  17,R,D
+   5,R,X
+  40,R,J
+
+   3,R,J
+   4,R,J
+   1,R,D
+
+  11,R,X
+  10,R,J
+
+   8,R,U,X
+  17,R,D
+  12,D
+   1
+   1,X
+   
+   1,D
+   
+   1,J
+   1
+  11
+   6,R,D,C
+
+  11,R,K
+  34
+
+
+#Sorry I skipped a stage, Ill get to it a bit later
+
+
+#/**/
+
+  10,R,D,X
+   1,R,D,J
+  20,R
+  11,R,D,X
+   1,R,D,J
+  40,R
+#/**/
+ 200
+
+
+
+
+ 
+
+
+#WIP
