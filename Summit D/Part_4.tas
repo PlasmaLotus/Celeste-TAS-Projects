@@ -48,15 +48,15 @@
    5,L,X
   15,L,G
   10,L,U,G
-  98,G
-
+#***400
+  100,L,G
    5,L,X
   10,L
-  11,L
+  12,L
    5,U,X
-  21,L,U
+  22,L,U
    5,U,X
-  13,L,U
+  14,L,U
    0,U
    5,U,X
   10,L,U
@@ -750,6 +750,8 @@
    5,U,X
    8,R,U
    3,L,D,K
+   
+ #This part is even better than the last iteration :P
    #2,R,K,G
   10,R,X
   0,R,X
@@ -761,7 +763,7 @@
   10,U
    1,L,D,K,G
    0,L,U,K,G
-***400
+
 
 ##new plan
    9,L,D

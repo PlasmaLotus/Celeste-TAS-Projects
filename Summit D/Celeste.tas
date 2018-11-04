@@ -14,7 +14,6 @@
 Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
 
  220
-***400
    
   24
 
@@ -23,6 +22,7 @@ Read Celeste-TAS-Projects/Summit D/Part 2.tas, 20
 
    3
    #1,R,D
+
 
 ####Chapter 3   
 Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
@@ -33,11 +33,30 @@ Read Celeste-TAS-Projects/Summit D/Part_3.tas, 20
 #Chapter 4 from file
 #Read Celeste-TAS-Projects/Summit D/Part4-FromC2.tas, 0
    0,R,J
-Read Celeste-TAS-Projects/Summit D/Part_4.tas, 30
+Read Celeste-TAS-Projects/Summit D/Part_4.tas, 20
  280
-   
 
   40
+
+***400  
+Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Not the part 5 but some of it is here
+
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -161,7 +180,7 @@ Read Celeste-TAS-Projects/Summit D/Part_4.tas, 30
   40,R,D,X
    2,R,D,X
 
-***400
+#***400
    1,R,D,J
    6,R,J
    1,R,U,K,G
