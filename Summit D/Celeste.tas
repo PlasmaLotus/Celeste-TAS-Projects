@@ -39,17 +39,22 @@ Read Celeste-TAS-Projects/Summit D/Part_4.tas, 20
   40
 
 Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
-
 ***400  
+
 
 ##Not the part 5 but some of it is here
 ##Part 5 is in Summit folder
 #I got it synked
 ##So it works
+ #900,R
 
-
-
+##dont need this now that i have 900r
   14,R,D,X
    1,R,J
   14,R,D,X
+  40,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+ 900,R,J
 #End for now

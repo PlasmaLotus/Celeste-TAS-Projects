@@ -48,7 +48,7 @@
    5,L,X
   15,L,G
   10,L,U,G
-#***400
+  
   100,L,G
    5,L,X
   10,L
@@ -128,8 +128,7 @@
 #
    5,L,D,X
    1,L,D
-
-
+   
 
    7,L,U
   11,U
@@ -146,7 +145,6 @@
   10,L,U
    5,L,U,X
   14,L,U
-   0
 
    5,L,U,X
   39,L,D
@@ -158,7 +156,6 @@
    0,L,D,J
    5,L,J
 
-   0,U,K
 
    5,U,X
   10,R,U
@@ -187,10 +184,8 @@
   13,R,J
    5,U,X
   10,R,U
-   0,R,U
 
 
-   0,R,U
    5,R,X
    8,L
    1,R,D
@@ -215,14 +210,14 @@
   26,R,D
 
   10,R,D,X
-   0,R,X
+
    5,R,D,J
    4,R,J
    5,U,X
   10,U
    5,U,X
   10,U
-   0,L,D,K,G
+
   18,L,D
    1,L,X
    3,L
@@ -251,7 +246,6 @@
 
    5,U,X
   10,U
-   0,R,J
   36,R,J
    7,R,J
 
@@ -274,7 +268,7 @@
    4,R,D
   14,R,D,X
    1,R,D,J
-  0,L,D
+
    5,R,D,X
   10,R,D
    2,L,U
@@ -291,15 +285,12 @@
    1,R,D,J
   39,R,D,J
    2,R,D
-   0,R,D
 
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
-
-
 
 #You cant just tell me it's this
 #   7,R,J
@@ -317,7 +308,6 @@
 #  11,D
 
 #Threshold to hold left here :7 frames in
-
    7,R,J
    0,R,J
    5,L,J
@@ -333,7 +323,6 @@
    3,R,D,K,G
    2,R,D
    5,D,X
-
 
 ##:(:(:(:(:(:(
 ##Bunny hop instead of super
@@ -368,7 +357,6 @@
   10,R,D
    5,D,X
   27,D
-   0,D
 
   14,R,D,X
    5,R,D,J
@@ -480,7 +468,6 @@
   10,R,D,C
   40,R,D,C
    4,R,D,C
-   0,R,D,X
 
   10,R,K
    8,R
@@ -519,8 +506,6 @@
 ##
    4,R,D,J
   13,R
-   0,L,D
-   0,R,D
    5,R,X
   10,R,D
    0,R,D
@@ -751,7 +736,7 @@
    8,R,U
    3,L,D,K
    
- #This part is even better than the last iteration :P
+#This part is even better than the last iteration :P
    #2,R,K,G
   10,R,X
   0,R,X
@@ -763,7 +748,6 @@
   10,U
    1,L,D,K,G
    0,L,U,K,G
-
 
 ##new plan
    9,L,D
