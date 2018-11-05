@@ -1,0 +1,359 @@
+#Chapter 4
+#Part 5
+#by PlasmaLotus
+
+#Restart Chapter
+   1,S
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D,J
+   1
+   1,J
+  67
+
+#Start
+
+#from retry
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,D,J
+   1,L,D
+   2,R,D
+   5,D,X
+  14,L
+
+
+
+#ok
+
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   9,R,J
+  10,R,X
+   5,R,J
+   6,L,J
+   8,L,D
+   7,L
+   9,R
+  12,R,J
+   5,R,X
+  10,R
+   2,R
+   5,U,X
+  33,D
+  10
+   4,J
+   8,R,J
+   5,R,X
+  54,D
+   5,R,X
+  13,R
+  10
+   8
+   2,R
+  11,L,D,X
+  8,R,D,J
+   3,R,D
+   0,R,J
+   5,R,X
+  10,R
+   5,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  41,R,J
+  14,R,D,X
+   0,R,J
+   0,R,D,X
+   6,R,J
+   1,U,X
+   5,U
+   0,U
+  26,R,U
+   5,U,X
+  10,R,U
+   9,R,U
+   5,U,X
+  10,R,U
+  14,R,U
+   1,R,C
+   5,R
+  13,R,U
+   5,R,X
+  10,R
+   5,R,X
+   8,R
+   1,R,C
+  17,R
+   5,R,X
+  10,D
+  10,L,D
+  10,L,D
+
+#
+#
+   3,L,D
+   5,L,X
+   9,L,D
+   1,R,C
+  17,R
+
+
+   5,R,X
+   1,R
+  0,R,D
+
+  30,L,D
+   5,L,X
+   9,L
+   1,R,C
+  0,R
+  17,R
+   9,R
+   5,R,U,X
+  40,R,U
+   5,R,U,X
+  20,R,U
+   9,R,D
+   4
+   8,R
+  12,L,X
+   0,R,J
+  0,L,X
+  21,R,J
+   5,R,X
+  12,R
+   1,R,C
+  17,R
+   5,R,X
+  45,L,D
+   4,L,D
+  10,R,D
+   0,D
+  10,R,D
+   5,R,X
+  23,R,G
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+  40,R,D,X
+   2,R,D,X
+
+
+   1,R,D,J
+   6,R,J
+   1,R,U,K,G
+   1,R,K
+  00,R,J
+  14,R,D,X
+   1,R,J
+
+  00,R,D,X
+  10,R,D,X
+
+
+##
+   6,R,J
+   1,R,K,G
+   2,L,K
+   0,K
+   3,R,K
+  11,R,D,X
+  12,R,J
+  15,R
+   5,R,U,X
+  10,R,U
+   5,R,U,X
+  10,R,U
+  14,R,U,G
+   0,D
+   0,J
+   0,D
+  12,R,D,X
+  36,R,J
+   5,R,U,X
+  24,R,D
+   5,R,D,X
+  10,R,D
+  14,R,D,C
+   0,R,D
+  14,R,J
+   5,R,U,X
+  38,R,D
+  10,D
+  11,R,D
+   5,R,X
+  13,R,U
+   5,U,X
+  10,U
+   5,U,X
+  10,U
+    0,R,D,J,X
+  18,R,D
+##scout plan
+  18
+   0,R
+  15,J
+   0,R,J
+   5,R,X
+  15,L,D
+   5,R,D
+   4
+   5,R,X
+  20,R,D
+   5,D
+   9,D
+   9,R,D
+   9,D
+   6,R,D
+   1,D,J
+   9,D
+   9,R,D
+   6,R,D
+   5,R,X
+  10,R
+   5,R,X
+  10,R
+   3,R
+   5,R,U,X
+
+##plan2
+##10 frames btw
+  18,R,D
+  10,R,D,X
+  10,R,J
+   5,U,X
+  10,U
+   5,U,X
+   8,R,U
+#67f
+##catch
+   1,R,U,C
+  31,R,U
+   5,R,X
+  10,R
+   5,R,X
+  10,R
+   1,R
+   1,R,U,C
+  16,R
+   5,R,U,X
+  10,R
+   5,R,X
+  10,R
+   2,R,G
+   8,R,K,G
+   9,R,D
+   0,R,D,G
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  40,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  11,R,J
+   9,R
+   5,R,X
+  10,R
+   5,R,X
+  10,R
+  19,R,D
+  23,R
+  12,R,D,X
+   2,R,D,J
+   6,R,D
+   5,R,X
+  29,R,D
+   1,J
+   5,D
+   0,R,D
+   9,D
+  11,R,D
+  28,D
+   6,R,D
+   5,R,U,X
+  19,L,D
+   1,L,D
+***400
+  20
+   5,J
+   9,R,J
+  25,R
+   5,R,X
+  10,R
+   5,R,X
+  10,R,D
+  14,R,D
+##Stalling for some frames
+  15,R
+  12,R,J
+   8,J
+   5,U,X
+  10,R,U
+   5,U,X
+  10,R,U
+  13,R
+   0
+   7,R
+   3
+   2,R
+  10,R,D,X
+#/*Landing on platform*/
+
+
+  14,R,D
+  20,D
+   6,L,D
+
+##Strat split
+# 112
+#  14,R,D,X
+#   1,R,J
+#  14,R,D,X
+#  40,R,D,X
+#   1,R,J
+#  14,R,D,X
+#  12,R,J
+# 900,R,G
+
+#Takes 1 less frame for this one tho
+  82
+  10,L
+  14,R,X
+   1,R,J
+   5,R,X
+  10,R
+  
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  40,R,D,X
+   1,R,J
+  12,R,D,X
+   8,R,J
+
+##//split
+  12,R,K,G
+  12,R,J,G
+  12,R,K,G
+  20,R
+
+ 900
+#End for now
