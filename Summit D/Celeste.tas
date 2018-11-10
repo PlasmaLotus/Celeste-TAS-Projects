@@ -38,24 +38,16 @@ Read Celeste-TAS-Projects/Summit D/Part_4.tas, 20
 
   40
 
-#***400  
+#Synking was the Hess
 Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
+
+#***400  
+ 283
+   
+##Start part6 - Chapter 5 - forgot what it's called
+   #2,R,J
 
  900
 
-##Not the part 5 but some of it is here
-##Part 5 is in Summit folder
-#I got it synked
-##So it works
- #900,R
 
-##dont need this now that i have 900r
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-  40,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
- 900,R,J
 #End for now
