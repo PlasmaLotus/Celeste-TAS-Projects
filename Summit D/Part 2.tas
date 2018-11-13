@@ -51,24 +51,28 @@
    7,R,U,K,G
 
    5,U,X
-  51,R,D
-   
-   2,R,D
 
+
+  41,R,D
    5,D,X
-   8,D
-  10,R,J
-  21,R
-  10,L
+  21,D
+  29,R,K
+  13,R
+   7,L,D
+
    5,L,X
-  16,L
+  17,L
   38,L,G
   37,R,J
    6,R,J
    5,U,X
+
+
+   5,U,X
   11,L,U
-  10,L,U,G
-  10,L,U,J,G
+   5,L,U,G
+   8,L,U,J,G
+   2,L,G
   22,L,G
    1,L,U,G
    1
@@ -92,7 +96,7 @@
    5,L,X
 
   27,L
-##
+
    5,L,X
 
    7,L
@@ -119,27 +123,42 @@
   55,R,D,J
 
    7,R,D,X
-  45,R,J
-   8,R,J
-   5,L,U,X
-  12,L,U,G
-   8,L,G
+   1,R,D,J
+  44,R,D
+#######wallbounce strat
+***400
+   0,R,D,J
 
-  10,R,J
-  19,R
-  20,R,U,G
-  20,L,J
-   8,L
-  20,R,J
-   7,R
-   9,R,U,K,G
-   9,U,J,G
+
+###mid jump strat
+#   4,R,D
+#   8,R,J
+#   5,R
+#   4,R,G
+#  13,R,K,G
+#   5,U,X
+#  10,U
+#  90,R,U,J
+
+
+##low jump strat
+   4,R,D
    5,R,J
-   2,J
-   4,R,J
+   8,R
+  30,R,G
+  13,L,J
+  0,J
+   6,R,J
 
+   5,R,U,X
+  10,R,U
+   8,R,U,G
+  12,J,G
+   9,R,J,G
    5,U,X
-  40,R,U
+  40,R
+
+
 
   15,R,J
    5,U,X
@@ -171,15 +190,17 @@
    9,R,D
   17,D
 
- 122
+ 100
   18,J
    5,U,X
   10,U
-   4,R,U
+   5,U,X
+  10,U
+   0,U
 
 #room finished
 
-  38,R,U
+  39,R,U
 #allegedly room transition finish
 
    3,R,U
@@ -454,4 +475,4 @@
    5,U,X
   10,U
    1,U
-#4749
+#4693 - 4749
