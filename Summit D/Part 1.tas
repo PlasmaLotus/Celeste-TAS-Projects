@@ -152,7 +152,7 @@
    5,R,U,C
    7,L,D
    5,R,U,X
-***400
+
   17,R,D
    5,D,X
   23,D
@@ -280,8 +280,8 @@
    5,U,X
   10,L,U
    5,U,X
-   1,L,D
-   9,R,D
+  10,L,D
+   0,R,D
   25,R,D
   16,D
    9,L,D
@@ -336,57 +336,42 @@
    5,L,U,X
   15,L,U
    7,L,U
-
-#New Strat from thre right
+***400
+##Wall bounce strat
    5,L,U
    6,U,X
-  26,L,U
-   8,U,X
-   7,L,U
-   4,L,U
-  12,R,D,X
+  22,L,U
+   5,U,X
+   9,U
+   3,R,J
+  13,R,D,X
+
   30,R,U,J
    5,R,U,X
   11,R,U
    5,R,U,X
   11,R,U
-  16,R,U,G
+  15,R,U,G
   12,R,U,J,G
   12,R,U,K,G
   12,R,U,J,G
    4,R,U,K,G
-   6,L,U,K
-   4,L,D
-   5,L,U,D
-   7,L,X
-  10,L,U,D,J
-   5,U,X
-  15,R,U
-   5,U
-   5,U,X
-  15,R,U
-   5,U
-  10,U,X
-  10,U
-   2,L,U
-   6,U,X
-   5,L,U
-   9,L,C
-
-  13,R,D
-   2,L,D
-  40,D
-  13,L
-   4,L,D
+   6,U,K
+   4,D
+   4,D
+  13,L,C
+  31,L,U,J
    5,L,U,X
-  10,L,U
+  24,L,U
    5,L,U,X
-  17,L,U
-
+  16,L,U
    5,U,X
   10,U
    5,U,X
   13,U
+
+
+
 
    5,U,X
   10,U
@@ -431,6 +416,6 @@
   12,L,U
    5,L,U,X
   12,L,U
-   3,L,U
+   4,L,U
 
-#End : 3797 - 3803 - 3911
+#End : 3667 - 3797 - 3803 - 3911
