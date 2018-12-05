@@ -59,10 +59,11 @@
   12,R,D,X
    4,R,D,J
    5,R,X
+
   10,R
-  12,R,D,X
-   6,R,J
-  40,R,J
+  11,R,D,X
+   7,R,J
+  39,R,J
   13,R,D,X
   39,R,J
 
@@ -322,7 +323,7 @@
   10,R,U
   20,R,U,J,G
   39,R,J
-
+***400
 #Is dashing better than Climbing?
   12,R,K,G
   12,R,J,G
@@ -418,4 +419,4 @@
   12,L,U
    4,L,U
 
-#End : 3667 - 3797 - 3803 - 3911
+#End : 3666 

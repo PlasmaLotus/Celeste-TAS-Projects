@@ -16,12 +16,9 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
  220
   24
 
-#***400
 Read Celeste-TAS-Projects/Summit D/Part 2.tas, 20
  240
    3
-   #1,R,D
-
 
 ####Chapter 3   
 Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
@@ -31,7 +28,7 @@ Read Celeste-TAS-Projects/Summit D/Part_3.tas, 20
  223
 #Chapter 4 from file
 #Read Celeste-TAS-Projects/Summit D/Part4-FromC2.tas, 0
-   0,R,J
+
 ##Position 10176.0, -8888.0
 Read Celeste-TAS-Projects/Summit D/Part_4.tas, 30
  280
@@ -45,12 +42,11 @@ Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
    
 ##Start part6 - Chapter 5 - forgot what it's called
 ##part 6 will have no problem syncing
-## i swear to god if it does
-   #2,R,J
+
 
 ##***400
 
- 500
+ 100
 
 
 #End for now
