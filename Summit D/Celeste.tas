@@ -26,10 +26,6 @@ Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
 Read Celeste-TAS-Projects/Summit D/Part_3.tas, 20
 
  223
-#***400
-#***400
-#Chapter 4 from file
-#Read Celeste-TAS-Projects/Summit D/Part4-FromC2.tas, 0
 
 ##Position 10176.0, -8888.0
 Read Celeste-TAS-Projects/Summit D/Part_4.tas, 50
@@ -37,17 +33,17 @@ Read Celeste-TAS-Projects/Summit D/Part_4.tas, 50
 
   40
 
-#Synking was the Hess
+#Synking was the hell
+#There has to be a better way to split these files
+#Cant even test them individually without sync errors
+
+
 Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
 
  283
    
 ##Start part6 - Chapter 5 - forgot what it's called
 ##part 6 will have no problem syncing
-
-
-
-
   50
 
 
