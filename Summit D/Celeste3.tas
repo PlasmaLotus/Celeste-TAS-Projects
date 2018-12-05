@@ -14,11 +14,12 @@
 Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
 
  220
+   
   24
 
-#***400
 Read Celeste-TAS-Projects/Summit D/Part 2.tas, 20
  240
+
    3
    #1,R,D
 
@@ -32,25 +33,28 @@ Read Celeste-TAS-Projects/Summit D/Part_3.tas, 20
 #Chapter 4 from file
 #Read Celeste-TAS-Projects/Summit D/Part4-FromC2.tas, 0
    0,R,J
-##Position 10176.0, -8888.0
-Read Celeste-TAS-Projects/Summit D/Part_4.tas, 30
+Read Celeste-TAS-Projects/Summit D/Part_4.tas, 20
  280
 
   40
 
-#Synking was the Hess
 Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
-
- 283
-   
-##Start part6 - Chapter 5 - forgot what it's called
-##part 6 will have no problem syncing
-## i swear to god if it does
-   #2,R,J
-
-##***400
-
- 500
+#***400  
 
 
+##Not the part 5 but some of it is here
+##Part 5 is in Summit folder
+#I got it synked
+##So it works
+ #900,R
+
+##dont need this now that i have 900r
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  40,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+ 900,R,J
 #End for now
