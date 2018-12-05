@@ -22,8 +22,6 @@
 
  188
 
-
-
 #Intro 1
 
   10,R,X
@@ -40,15 +38,6 @@
    0
    0,X
    
-
-
-
-
-
-
-
-
-
 #Selecting stage
 #Stage : ShadowMurloc - Temple Trial
    1,X
@@ -62,8 +51,6 @@
 1,D
    
 
-
-
 #Activating stage
 
    1,J
@@ -76,8 +63,6 @@
 
 
 #Sorry I skipped a stage, Ill get to it a bit later
-
-
 #/**/
 
   10,R,D,C
