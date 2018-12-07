@@ -14,7 +14,6 @@
 
 Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
  220
-***400
   24
 
 ##Position 3136.0 -1648.0
@@ -29,7 +28,8 @@ Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
 Read Celeste-TAS-Projects/Summit D/Part_3.tas, 20
 
  223
-
+##***400
+   1
 ##Position 10176.0, -8888.0
 Read Celeste-TAS-Projects/Summit D/Part_4.tas, 50
  280
