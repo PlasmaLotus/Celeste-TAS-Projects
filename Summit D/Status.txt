@@ -1,13 +1,12 @@
 Status Check:
-/*Hopefully I remember editing this...*/
+/*Finally remembered editing this...*/
 
-Bottom: 50%
-Chap 1: 
-Chap 2: 
-Chap 3: 
-Chap 4: 
-Chap 5: 
-Chap 6:
-Final : 
+Bottom: 100%
+Chap 1: 100%
+Chap 2: 100%
+Chap 3: 100%
+Chap 4: 100%
+Chap 5: 100%
+Chap 6: 100%
+Final : 0%
 
-Any Tasers give me input on improvements, I don't know or haven't tried most mechanics of the game TAS wise
