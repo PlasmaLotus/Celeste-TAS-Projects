@@ -25,7 +25,6 @@
 
 
 #Intro 1
-***400
   10,R,X
    8,R,J
   10,R,X
@@ -34,31 +33,47 @@
    2,R,D,J
 
    5,L,D
+   2,R
    5,D,X
 
-
-
-
-
-
-
-
-
-
+***400
 #Selecting stage
 
 
-
-
+  0
 #Activating stage
-   1
-   1,X
-   
+   6,D
+   0
+
+   2,R
+   3,X
+
+   0
    1,D
-   
    1,J
-   1
-  11
+
+   1,D
+   1,J
+
+   1,D
+   1,J
+
+   1,D
+   1,J
+
+   1,D
+   1,J
+
+   1,D
+   1,J
+
+   1,D
+   1,J
+
+   
+
+
+  12
    6,R,D,C
 
   11,R,K
@@ -66,6 +81,10 @@
 
 
 #Sorry I skipped a stage, Ill get to it a bit later
+
+##
+#Read 
+#Read Celeste-TAS-Projects\Mod Collab June 2018\Part 1 B4 Level6.tas, 20
 
 
 #/**/

@@ -16,15 +16,16 @@
 #31
   33
   85
+   0
 
 #Start
+   1
   10,R,D,X
 
-##Replace these values with 4 - 8 for Golden Strawb and 5 - 8 for no strawb
+##Forget about that
    4,R,J
    8,R
 ##Sub end
-
   18,R,J
    5,U,X
   12,U
@@ -40,18 +41,19 @@
    6,L,X
    9,L
    6,L,X
-  30,R,D
-  10,D
+
+  19,L,D
+   5,D,X
+  13,R,D
   12,R,D,X
-  20,R,J
-   7,R,J
+  27,R,J
    6,U,X
   12,U
   13,R,U,J
    6,U,X
   17,R,U
 
-  11,R,J,G
+  12,R,J,G
    3,R,D
    6,D
   14,R,D,X
@@ -59,49 +61,57 @@
   12,R,D,X
    4,R,D,J
    5,R,X
-  10,R
-  12,R,D,X
-   6,R,J
-  40,R,J
-  13,R,D,X
-  39,R,J
 
+  10,R
+  11,R,D,X
+   7,R,J
+  39,R,J
+  14,R,D,X
+  30,R,J
+   8,R
    1,K
   20,R,K
    1,J
   25,R,J
   12,R,K,G
-  12,R,J,G
-   2,R,J,G
+  11,R,J,G
+   0,R,J,G
 
   12,R,K,G
+   7,R,K
   14,R
-   2,R,D
-   7,R,D
-  12,R,D
-  12,R
-   3,R
 
-   7,R,D
+   2,R,D
+   9,R,D
+   8,R,D
+   0,R
+   0
+   0,R,D
+  19,R
+   0,R
+
 
   16,R,J,G
    5,U,X
   14,U
-  27,R,J
-  45,R
+  30,R,J
+  42,R
 
+   0,D,X
    5,R,X
   32,R
+   0,R
 
    1,J
   25,R,J
    1,K
-  25,R,K
+  26,R,K
    1,J
    3,L,J
+   0
    1,K
-   3,L,K
-  14,R,K
+   4,L,K
+  15,R,K
    1,J
   26,R,J
    1,K
@@ -109,7 +119,6 @@
    1,J
   27,R,J
 
-## OPOP hypers
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -117,9 +126,7 @@
    1,R,J
    4,R,J
    2,R,D,J
-   0,R,D,J
   15,R,D
-   0,R,D
    8,L,D
    5,L,X
    1,L
@@ -281,7 +288,6 @@
   10,L,U
    5,U,X
   10,L,D
-   0,R,D
   25,R,D
   16,D
    9,L,D
@@ -345,7 +351,6 @@
    9,U
    3,R,J
   13,R,D,X
-
   30,R,U,J
    5,R,U,X
   11,R,U
@@ -355,14 +360,18 @@
   12,R,U,J,G
   12,R,U,K,G
   12,R,U,J,G
-   4,R,U,K,G
-   6,U,K
-   4,D
-   4,D
-  13,L,C
-  31,L,U,J
+
+   1,K,G
+
+   8,U,K
+   3,D
+
+   4,L,D
+
+  14,L,C
+  30,L,J
    5,L,U,X
-  24,L,U
+  22,L,U
    5,L,U,X
   16,L,U
    5,U,X
@@ -371,16 +380,14 @@
   13,U
 
 
-
-
    5,U,X
   10,U
    5,U,X
   10,U
-   3,R,U
+   3,L,U
 
    5,U,X
-  12,U
+  12,L,U
    5,L,U,X
    7,L,U
 
@@ -392,12 +399,14 @@
   35,R,U
    5,U,X
   10,L,U
-   8,L,U
+
+   4,L,U
 
    5,L,U,X
-  10,R,U
+  13,R,U
+   2,R,U
    5,R,U,X
-  15,L,U
+  16,L,U
    5,U,X
   30,L,U
    5,U,X
@@ -410,12 +419,12 @@
   10,L,U
    5,U,X
   10,L,U
-  11,L,U
+  12,L,U
 
    5,U,X
   12,L,U
    5,L,U,X
-  12,L,U
-   4,L,U
+  15,L,U
 
-#End : 3667 - 3797 - 3803 - 3911
+
+#End : 3666

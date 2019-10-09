@@ -1,0 +1,89 @@
+#Created by PlasmaLotus
+#Summit D
+#S500M - Chap 1
+
+#Restart Chapter
+   1,S
+   1,D
+   1,F,180
+   1,D
+
+   1,F,180
+   1,D,J
+   1
+   1,J
+
+#31
+   
+ 175
+#***400
+
+  10,U,X
+ 00,L,R
+   5,R
+   5,D,X
+  10,R,D
+   0,D,X
+   7,R,J
+   9,R,D
+   2,R,D
+  10,L,D,X
+  37,R,J
+   5,U,X
+  12,U
+  19,R,J
+   0,R,J
+
+
+   8,R
+  14,R,D,X
+  50,R,J
+   5,R,U,X
+  37,R,U
+   5,R,X
+  22,R,U,G
+  12,R,U,K,G
+   2,R,D,J,G
+   8,R,D
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  35,R,D,X
+   0,R,J
+  67,R,J
+  41,R,D
+   5,R,X
+  71,R
+  50,D
+  12,R,D
+   5,R,X
+   6,U
+  55,U
+   5,D,X
+  50,D
+  64,U
+   5,U,X
+  10,U
+   5,U,X
+  10,U
+  32,L,U
+   6,L,X
+  21,L,D
+ 182,U
+   9,R,X
+  13,L,J
+   4,L,K,G
+  10,L,X
+  15,R,J
+   5,U,X
+  10,U
+   5,U,X
+  10,U
+   5,U
+  90,L,U,J
+ 100
+
+#Start
+#***100
+##Replace these values with 4 - 8 for Golden Strawb and 5 - 8 for no strawb
+#End 3803

@@ -1,0 +1,60 @@
+#Created by PlasmaLotus
+#Restart Chapter
+   1,S
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D,J
+   1
+   1,J
+  31
+  36
+***400
+#Part5
+#Star
+  10,R
+   7,R,J
+   0,R,D
+  12,R,X
+  90,R,J
+   5,R,J
+   5,R,U,X
+   5,R,U
+   0,L,C
+  23,L
+  11,L
+   5,R,X
+   5,L,D,C
+   0,R,X
+  15,L,D
+  25,D
+   1,R,C
+  34,R
+   5,U,X
+  12,U
+   5,U,X
+  12,U
+   2,R,U
+   1,R,C
+  65,R
+   5,D,X
+   9,D
+   8,R,X
+  32,R,J
+   5,U,X
+  90,R,G
+   1,R,J
+   5,R,U,X
+  10,R,U
+  90,R,U
+  90,R,U
+
+ 100,R
+   5,R,X
+  10,R,J
+   5,R,X
+  10,R
+  90,R,J
+
+##End 0
