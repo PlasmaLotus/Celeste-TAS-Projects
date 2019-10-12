@@ -2,21 +2,33 @@
 #Summit D
 #S500M - Chap 1
 
-#Restart Chapter
-   1,S
-   1,D
-   1,F,180
-   1,D
-
-   1,F,180
-   1,D,J
+#From Map Start
    1
    1,J
+ 135
+   1
+
+##Position 3136.0 -1648.0
+
+#Restart Chapter
+#   1,S
+#   1,D
+#   1,F,180
+#   1,D
+
+#   1,F,180
+#   1,D,J
+#   1
+#   1,J
 
 #31
-  33
+#  33
   85
    0
+
+
+
+
 
 #Start
    1
@@ -53,83 +65,104 @@
    6,U,X
   17,R,U
 
-  12,R,J,G
-   3,R,D
-   6,D
-  14,R,D,X
-   1,R,J
-  12,R,D,X
-   4,R,D,J
-   5,R,X
-
-  10,R
-  11,R,D,X
-   7,R,J
-  39,R,J
-  14,R,D,X
-  30,R,J
-   8,R
-   1,K
-  20,R,K
-   1,J
-  25,R,J
-  12,R,K,G
   11,R,J,G
-   0,R,J,G
-
-  12,R,K,G
-   7,R,K
-  14,R
-
-   2,R,D
-   9,R,D
+   2,R
    8,R,D
-   0,R
-   0
+   #6,D
+   5,R,D,X
+   9,R,D
+   8,R,D,J
+   3,R
+   1,D,X
+  11,R,X
+   0,R,U,J,G
+   6,R
+   0,R,D,X
+   0,R,U,J
    0,R,D
-  19,R
+   0,R,D
+   9,R,D,X
+   0,R,D,J
+   6,R,D,J
+  23,R,D
+   0,R,D
+  19,R,D
+  12,R,D,X
+#a-01
+   0,R,D,J
+  26,R,J
+
+  18,R
+   1,K
+  25,R,K
+   1,J
+  20,R,J
+   1,K
+  25,R,K
+   1,J
+  25,R,J
+   4,R,K,G
+
+   0,R,J,G
+  #13,R,K,G
+  12,R,J,G
+   6,R
+  17,R,D
+   0,R,D,J
+  13,R,D
+  22,R
+
+
+  19,R,U,J,G
    0,R
-
-
-  16,R,J,G
    5,U,X
-  14,U
-  30,R,J
-  42,R
+  13,U
+  72,R,U,J
+   1,D,X
+   4,R,X
 
-   0,D,X
-   5,R,X
-  32,R
-   0,R
+  33,R
+
+
+
 
    1,J
   25,R,J
    1,K
-  26,R,K
+  19,R,K
    1,J
-   3,L,J
-   0
+   2,L,J
+  13,R,J
+   0,R,U,K,G
+   0,L,U
+   0,R,U
    1,K
-   4,L,K
-  15,R,K
+  25,R,U,K
+***400
    1,J
-  26,R,J
-   1,K
-   3,L,K
-   1,J
-  27,R,J
+  20,R,U,J
+   0,R,U
+   1,R,U,K,G
+  10,R,D
+   5,R,D,X
+   9,R,D,X
+   1,R,D,K
+  14,R,D,X
 
-  14,R,D,X
    1,R,J
   14,R,D,X
-  40,R,D,X
-   1,R,J
-   4,R,J
-   2,R,D,J
-  15,R,D
-   8,L,D
+  25,R,D,X
+   2,R,J
+#a-02
+   0,R,J
+   6,R,D,J
+   3,R,D
+  10,L,D
+  10,L,D
+   #9,L,D
+
    5,L,X
-   1,L
+  11,L,D
 
 
   30,R,D
@@ -303,31 +336,54 @@
   13,L,U
   14,R,U
    3,R,D
-   3,R,D
-   4,L,D
+#***400
+   4,R,D
+   3,L,D
    5,D
-   1,R,D
-  10,R
-   5,R,U,X
+   2,R,D
+   3,R
+   2,L
+   4,R
+   1,D,X
+   4,R,U,X
    
-   9,L,U
+  10,R,U
   11,R,X
+   1,L,U,J
 
-   6,L,U,J
-   6,U,X
-   9,L,U
+#dodo
+
+   3,R,U,J
    5,U,X
-   4,L,U,G
+  10,L,U
+   5,U,X
+   3,L,J,G
+   0,L,D,K,G
+   5,L,D
+   1,L,D,J,G
+   3,L,D
   12,L,D
-  17,D
+   8,R,D
 
+
+### ---
+#   6,L,U,J
+#   6,U,X
+#   9,L,U
+#   5,U,X
+#   4,L,U,G
+#  12,L,D
+#  17,D
+
+
+#dodo end
   20,R,J
    5,U,X
-  13,R,U
+  14,R,U
    5,R,U,X
-  10,R,U
+   9,R,U
   20,R,U,J,G
-  39,R,J
+  40,R,J
 
 #Is dashing better than Climbing?
   12,R,K,G
@@ -427,4 +483,4 @@
   15,L,U
 
 
-#End : 3666
+#End : 3794 Last :3666
