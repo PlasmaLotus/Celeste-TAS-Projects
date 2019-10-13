@@ -1,5 +1,5 @@
 #Created by PlasmaLotus
-#Summit D
+#Summit D (Obselete map)
 #S500M - Chap 1
 
 #From Map Start
@@ -10,21 +10,20 @@
 
 ##Position 3136.0 -1648.0
 
-#Restart Chapter
-#   1,S
-#   1,D
-#   1,F,180
-#   1,D
+Restart Chapter
+   1,S
+   1,D
+   1,F,180
+   1,D
 
-#   1,F,180
-#   1,D,J
-#   1
-#   1,J
+   1,F,180
+   1,D,J
+   1
+   1,J
 
-#31
-#  33
+  31
   85
-   0
+   3
 
 
 
@@ -138,7 +137,6 @@
    0,R,U
    1,K
   25,R,U,K
-***400
    1,J
   20,R,U,J
    0,R,U
@@ -162,61 +160,55 @@
    #9,L,D
 
    5,L,X
-  11,L,D
+  11,R,D
 
 
-  30,R,D
-   1,D
-   4,R,D
+  25,R,D
    6,R,X
-  10,R
-  14,R
+  27,R,D
+   0,R
 
 
-   6,R,U,X
-  19,R,U
+   5,R,U,X
 
+  10,R,U
+   5,R,X
+  13,R,D
+   5,R,X
 
+  26,L,D
+   6,R,D
+   0,D,X
+   5,R,X
+  12,R
+   0,D,X
    6,R,X
-  20,R,D
-  15,R,D
-   2
-   5,R,X
-  13,R
-
-   5,R,X
   10,L
    0
    5,U,C
-  35,L
+  31,L
+   3,R
    5,R,U,C
-   7,L,D
-   5,R,U,X
-
-  17,R,D
-   5,D,X
-  23,D
-   4,L,D
-
-  10,L,D,X
-  20,R,J
-   8,R
+  13,R,U
    5,U,X
-  20,R,U
-   6,U,X
-  24,R,U
-  12,R,U,J,G
-   7,R,D
-
+  21,R
+   1,D,X
+  14,R
+  22,R,D
+  15,R,D,X
+   1,R,D,J
 
 ###Start back here for buffs
-   5,R,D,X
+   7,R,D,X
    3,R,J
    8,R
    5,R,D,X
    8,R,J
 
+
+#TODO: demo dash strat here
 #Transition
+#a-03
   39,R,J
    2,R,J
    1,R,D,J
@@ -224,13 +216,12 @@
    5,L,D
    3,R,D
    9,D
-   6,R,D
-
-   5,R,X
-  34,L,D
-  10,D
-   2,R
-   1,R
+   4,R,D
+   1,D,X
+   4,R,X
+  33,L,D
+  12,D
+   3,R
   19,R
    5,U,X
   11,U
@@ -238,8 +229,8 @@
    4,L,U,J
    8,R,U,J
    5,U,X
-  14,R,U
-  12,R,U,J,G
+  13,R,U
+  11,R,U,J,G
   12,R,D,X
   20,R,J
   19,R
@@ -250,11 +241,11 @@
    8,U
 
    7,L,U
-   9,L,U
+  11,L,U
    5,U,X
    8,R,U
-
-  13,R,U
+#Resynced here
+  14,R,U
    5,R,D,X
   12,R,D
 
@@ -262,10 +253,11 @@
    1,R,J
   14,R,D,X
    1,R,J
+#a-04
   41,R
   10,R,D,X
    9,R,J
-   4,R
+   3,R
 
   12,R,D,X
   30,R,J
@@ -279,20 +271,20 @@
    9,L,D
    5,L,X
   18,L,D
-  11,L,D,X
-  30,L,U,J
+  12,L,D,X
+  29,L,U,J
 
    5,L,U,X
   30,L,D
    3,L,D
   11,D
   18,D
-   7,R,D
+   8,R,D
    5,R,X
    9,L
 
    9,U,X
-  10,R,D
+   9,R,D
 
    6,U,X
    5,L,D
@@ -328,22 +320,23 @@
    7,L
    3,L,U
    6,U,X
+***400
   19,L,U
    2,R,U
    5,R,U,X
   15,L,U
+   0,L,U
    5,U,X
   13,L,U
   14,R,U
    3,R,D
-#***400
-   4,R,D
-   3,L,D
+   3,R,D
+   4,L,D
    5,D
    2,R,D
+   5,R
+   0,L
    3,R
-   2,L
-   4,R
    1,D,X
    4,R,U,X
    
@@ -483,4 +476,4 @@
   15,L,U
 
 
-#End : 3794 Last :3666
+#End : 3747 Last :3666
