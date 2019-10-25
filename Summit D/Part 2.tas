@@ -15,8 +15,8 @@
 
 #  31
 #  36
-
   
+
 #From Map Start
    1
    1,J
@@ -26,7 +26,25 @@
 Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
  220
   24
-#***400
+##Position 3136.0 -1648.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##Position 3136.0 -1648.0
 #Start
@@ -36,10 +54,10 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    8,L,J
    4,L,K,G
    1,U,J
-   6,L,J
+   7,L,J
 
    5,U,X
-  17,U
+  17,L,U
    5,U,X
   16,U
    5,R,U,G
@@ -159,21 +177,28 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    6,R,J
   21,R,J
 
+
   12,R,U,K,G
    8,R,U,J,G
-   8,R,U,K,G
+   1,R,U,K,G
+   3,L,U,K,G
+   2,R,U,K,G
+   2,L,U,K,G
+#total 8 before
+  10,R,U,K,G
    5,U,X
-  40,R,D
+  41,R
+   0,R,D
 ###
-   5,R,U,X
-  10,R,U
-   1,R,U,G
-  12,J,G
-   8,R,U,G
-  12,J,G
-   9,R,J,G
-   5,U,X
-  40,R
+#   5,R,U,X
+#  10,R,U
+#   1,R,U,G
+#  12,J,G
+#   8,R,U,G
+#  12,J,G
+#   9,R,J,G
+#   5,U,X
+#  40,R
 
 
   15,R,J
@@ -400,64 +425,99 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
   44,L,U
    5,L,U,X
 
-
   28,L
    5,L,X
   30,L,D
-  62,R,D
-
-   6,D
-   6,R,D
+  41,R
    5,R,X
-  11,R
+  13,R
    5,R,X
-   7,R
+  18,R
+#get
   26
   11
+   #2
+   1,L,D,X
+   4,L,X
+  15,L
+  11,L,X
+#get
 
-  11,R,U
-   5,L,U,X
-  35,L,D
-  13,D
-   5,L,X
-   2,L
-  36,L,D
-   9,L,D
+
+#  11,R,U
+#   5,L,U,X
+#  36,L,D
+#  12,D
+   0,L,D,X
+#   5,L,X
+#   2,L
+  37,L,D
+   0,L,D
    6,L,D,X
 
    9,L,D
-   5,L,D,X
+  28,L,D
+#   5,L,D,X
 
-  10,L,D
-  27,L,D
+#  10,L,D
+#  27,L,D
   
- 213,R,D
+#   8,L,D
+   5,L,X
+   7,L
 
-  13,D
+#***400
+# 4 stack Badeline boost - 7575
+ #213,R,D
+ 195,R,D
+   5,R,D,X
+  10,R,D
+   5,R,D,X
+   9,R,D
+#  90,R,J,G
+#  13,D
 
-  10,R,D,X
+#  10,R,D,X
   27,R,J
    5,R,U,X
   10,R,U
    5,R,X
   10,R,U
-   8,R,U
+#   8,R,U
+#***400
   35,L,U
-  42,L,U
-
-  16,L,U
-   8,L,D,X
-  15,L
-  10,U,X
+  40,L,U
+   7,L,U
+   5,L,X
   10,L
+  13,L,U
+   5,U,X
+  00,L,U
+   6,U
+
+
+#   2,L,U
+#  18,L,U
+#   1,L,D,X
+#  22,L
+#  10,U,X
+#  10,L
   27,R,U
 
-  10,U
+  10,R,D
 
+   5,R,U,J
+#   1,R,D,C
+#   4,R,U,C
+#   7,R,U
+
+#og
    5,R,C
-  10,R
-   5,U,C
-  10,U
+   5,R
+#   5,U,C
+#get
+#  10,U
+   7,U
   32,L,U
 
    5,L,D,X
@@ -496,4 +556,5 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
   10,U
    5,U,X
   11,U
+#4901 - With sync from start
 #4693

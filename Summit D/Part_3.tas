@@ -2,22 +2,54 @@
 #Summit D
 #S1000M - Chap 3
 #Restart Chapter
-   1,S
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D,J
+#   1,S
+#   1,D
+#   1,F,180
+#   1,D
+#   1,F,180
+#   1,D,J
+#   1
+#   1,J
+#  31
+#  36
+#From Restart
+#   6,R,X
+#  17,R,J
+#   5,R,K,G
+#   5,R,X
+
+
+
+#From Map Start
    1
    1,J
-  31
-  36
-#From Restart
-   6,R,X
-  17,R,J
-   5,R,K,G
-   5,R,X
-  24,R
+ 135
+   1
+
+Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
+ 220
+  25
+
+##Position 3136.0 -1648.0
+
+Read Celeste-TAS-Projects/Summit D/Part 2.tas, 50
+ 240
+   3
+
+
+####Chapter 3   
+Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
+   0,R,J
+#  24,R
+
+
+
+
+
+
+
+#Somehow the tas picksup from here before #from map start
+#test
 ##########
   30,R,J
   11,R
@@ -111,25 +143,28 @@
    8,R,D
   22,D
    8,L,D
-   9,R,D
+   8,R,D
    5,R,X
   10,R
    5,R,X
   10,R
-  36,R
+  37,R
    3,R
    0,R,D,X
   21,R,J
    5,R,X
   10,R
   10,R
-   5,R,X
+   0,R
+   1,R,D,X
+   4,R,X
   10,R
   74,R
+
    4,R,U,J
-   3,R,U,J
+   2,R,U,J
    5,U,X
-  13,R,U
+  10,R,U
   14,R,D,X
    1,R,D,J
    8,R,D,X
@@ -149,8 +184,12 @@
   35,R,J
    5,R,X
   10,R
-   7,R
-   5,R,U,X
+   6,R
+## resync
+   0,R
+## resync
+   1,R,D,X
+   4,R,U,X
   10,R
   19,R
   14,R,D
@@ -159,19 +198,38 @@
    5,R,X
   10,R
   38,R
+***400
    6,L,G
 
   0,L,X
    2,L,G
-  10,L,U,X
+## resync
+   0,L,G
+   1,L,D,X
+##\resyncy
+   9,L,U,X
   10,R,U
    5,R,X
-  20,R,D
-   5,R,X
+  19,R,D
+#########Resyunc
+   2,R,D
+   0,D,X
+
+## resync
+   4,R,X
  116,R
-   1,R
-   5,R,D,X
-  32,R,J
+   3,R
+   1,R,D,X
+#5rdx
+   3,R,K
+  31,R,J
+  0,R,J
+
+
+## recync again
+   0,R,J
+
+# ok resunking sucks
    5,U,X
   10,U
   44,U
@@ -399,4 +457,5 @@
   12,L,U
    6,L,U
    
+# with resync - 4975
 # 4486

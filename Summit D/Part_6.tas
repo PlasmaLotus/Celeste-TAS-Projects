@@ -1,15 +1,83 @@
 #Created by PlasmaLotus
-#Restart Chapter
-   1,S
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D,J
+
+#Created by PlasmaLotus
+#Summit D
+#Play all files
+#Main Celeste.Tas file that plays all others in succession
+#Put this file on the root of the Celeste.exe folder
+#And put the 'Celeste-TAS-Projects/Summit D' Directory on the root as well 
+
+
+#From Map Start
    1
    1,J
-  31
-  36
+ 135
+   1
+
+Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
+ 220
+  26
+##Position 3136.0 -1648.0
+
+***400
+Read Celeste-TAS-Projects/Summit D/Part 2.tas, 50
+ 240
+   3
+
+####Chapter 3   
+Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
+   0,R,J
+Read Celeste-TAS-Projects/Summit D/Part_3.tas, 20
+
+ 223
+   1
+##Position 10176.0, -8888.0
+Read Celeste-TAS-Projects/Summit D/Part_4.tas, 50
+ 280
+
+  40
+
+#Synking was the hell
+#There has to be a better way to split these files
+#Cant even test them individually without sync errors
+
+
+Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
+
+ 283
+
+
+#Restart Chapter
+#   1,S
+#   1,D
+#   1,F,180
+#   1,D
+#   1,F,180
+#   1,D,J
+#   1
+#   1,J
+#  31
+#  36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

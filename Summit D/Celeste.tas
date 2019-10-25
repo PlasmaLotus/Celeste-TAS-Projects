@@ -14,19 +14,19 @@
 
 Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
  220
-  24
+  25
 
 ##Position 3136.0 -1648.0
 
-Read Celeste-TAS-Projects/Summit D/Part 2.tas, 20
+Read Celeste-TAS-Projects/Summit D/Part 2.tas, 50
  240
    3
 
 ####Chapter 3   
 Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
    0,R,J
-Read Celeste-TAS-Projects/Summit D/Part_3.tas, 20
-
+Read Celeste-TAS-Projects/Summit D/Part_3.tas, 50
+***400
  223
    1
 ##Position 10176.0, -8888.0
@@ -45,7 +45,7 @@ Read Celeste-TAS-Projects/Summit D/Part_5.tas, 30
  283
    
 ##part 6 will have no problem syncing
-Read Celeste-TAS-Projects/Summit D/Part_6.tas, 30
+Read Celeste-TAS-Projects/Summit D/Part_6.tas, 100
 
 
  329
