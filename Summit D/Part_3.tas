@@ -104,6 +104,7 @@ Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
 
   15,R,U
 ##########Small change
+#######***400
   15,R
    5,R,X
   35,R
@@ -144,20 +145,20 @@ Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
   22,D
    8,L,D
    8,R,D
-   5,R,X
+   5,R,C
   10,R
-   5,R,X
+   5,R,C
   10,R
   37,R
    3,R
    0,R,D,X
   21,R,J
-   5,R,X
+   5,R,C
   10,R
   10,R
    0,R
-   1,R,D,X
-   4,R,X
+   1,R,D,C
+   4,R,C
   10,R
   74,R
 
@@ -165,9 +166,9 @@ Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
    2,R,U,J
    5,U,X
   10,R,U
-  14,R,D,X
+  14,R,D,C
    1,R,D,J
-   8,R,D,X
+   8,R,D,C
    1,R,D,J
   40,R,D
 
@@ -198,7 +199,6 @@ Read Celeste-TAS-Projects/Summit D/Part3-FromC2.tas, 0
    5,R,X
   10,R
   38,R
-***400
    6,L,G
 
   0,L,X

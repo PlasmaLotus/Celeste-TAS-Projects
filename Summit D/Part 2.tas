@@ -1,31 +1,32 @@
 #Created by PlasmaLotus
 #Summit D
-#S500M - Chap 1 - Part 2
+#S500MM - Part 2 -Chapp1 - Part 2
 
-#Restart Chapter
-#   1,S
-#   1,D
-#   1,F,180
-#   1,D
-#   1,F,180
-#   1,D,J
+Restart Chapter
+   1,S
+   1,U
 
-#   1
-#   1,J
+   1,J,F,360
+   #1,D
+   #1,F,360
+   #1,D,J
 
-#  31
-#  36
+   1
+   1,J
+
+  31
+  36
   
 
 #From Map Start
-   1
-   1,J
- 135
-   1
+#   1
+#   1,J
+# 135
+#   1
 
-Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
- 220
-  24
+#Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
+# 220
+#  24
 ##Position 3136.0 -1648.0
 
 
@@ -36,7 +37,7 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
 
 
 
-
+#More Below
 
 
 
@@ -55,7 +56,6 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    4,L,K,G
    1,U,J
    7,L,J
-
    5,U,X
   17,L,U
    5,U,X
@@ -69,6 +69,7 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    3,L,U,J
   13,R,U,K
   10,R
+###Demodash strat
    8,R,U,K,G
   10,R
    1,U,K,G
@@ -79,22 +80,43 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    5,K
    6,R
    5,U,K,G
+   3,R,U
+   1,R,D,X
+   4,R,X
+  10,R,D
+   2,R,D
+   5,D,C
+***400
+  16,D
 
-   7,R,U,K,G
 
-   5,U,X
+###~Demodash strat
+#   8,R,U,K,G
+#  10,R
+#   1,U,K,G
+#   6,K
+#   5,R
+
+#   1,U,K,G
+#   5,K
+#   6,R
+#   5,U,K,G
+
+#   7,R,U,K,G
+
+#   5,U,X
 
 
-  41,R,D
-   5,D,X
-  21,D
+#  41,R,D
+#   5,D,X
+#  21,D
   29,R,K
-  13,R
-   7,L,D
+  11,R
+   8,L,D
 
    5,L,X
-  17,L
-  38,L,G
+  15,L
+  40,L,G
   37,R,J
    6,R,J
    5,U,X
@@ -111,19 +133,33 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    7,L
    3,L
 
+#***400
    2,L
    3,L
    9,L
    1,L
-   3,L
-   1,L
+   4,L
+   0,R
 
   29,D
+   1,D
+#Sync frame :/
    #1,D
-   1,R,J
-
-  30,L,J
-   3
+   0,R,D,J
+   1,J
+   8,R,J
+   2,R
+   7,R,D
+   1,R,D,C
+   4,R,C
+   0,R
+  40,L,G
+  37,L,U,G
+  90,L,U,J,G
+ 999
+#Demo dash variation
+###Syncing restart here
+###RESYNC HERE
   20,L
    5,L,X
 
@@ -189,7 +225,7 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    5,U,X
   41,R
    0,R,D
-###
+
 #   5,R,U,X
 #  10,R,U
 #   1,R,U,G
@@ -466,7 +502,7 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    5,L,X
    7,L
 
-#***400
+
 # 4 stack Badeline boost - 7575
  #213,R,D
  195,R,D
@@ -484,7 +520,7 @@ Read Celeste-TAS-Projects/Summit D/Part 1.tas, 20
    5,R,X
   10,R,U
 #   8,R,U
-#***400
+
   35,L,U
   40,L,U
    7,L,U
